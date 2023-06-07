@@ -1,0 +1,489 @@
+
+Allograph:  
+
+<figure><desc>Réalisations du   dans A.</desc></figure>
+Allograph: 2
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/2/A/239v_23627_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/2/A/242r_24090_0.png"/>
+<desc>Réalisations du 2 dans A.</desc></figure>
+Allograph: A
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/A/A/238r_23319_23.png"/>
+<desc>Réalisations du A dans A.</desc></figure>
+Allograph: C
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/260v_27323_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/247v_25048_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/259r_27100_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/258v_27035_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/254r_26219_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/238r_23326_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/C/A/242v_24145_0.png"/>
+<desc>Réalisations du C dans A.</desc></figure>
+Allograph: D
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/D/A/258r_26911_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/D/A/254v_26265_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/D/A/252v_25919_23.png"/>
+<desc>Réalisations du D dans A.</desc></figure>
+Allograph: E
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/248r_25157_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/256v_26674_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/237r_23181_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/267r_28539_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/269r_28929_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/254v_26312_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/E/A/253v_26108_0.png"/>
+<desc>Réalisations du E dans A.</desc></figure>
+Allograph: J
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/247v_25022_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/261v_27569_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/262r_27647_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/254v_26244_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/261v_27540_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/261v_27541_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/J/A/267r_28493_12.png"/>
+<desc>Réalisations du J dans A.</desc></figure>
+Allograph: M
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/248v_25187_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/250r_25500_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/264v_28053_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/245r_24616_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/267v_28586_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/269v_28961_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/M/A/245v_24630_0.png"/>
+<desc>Réalisations du M dans A.</desc></figure>
+Allograph: N
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/N/A/258r_26905_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/N/A/241r_23842_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/N/A/240v_23792_28.png"/>
+<desc>Réalisations du N dans A.</desc></figure>
+Allograph: O
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/251v_25767_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/239v_23639_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/250v_25529_28.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/247r_24932_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/245v_24643_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/252r_25850_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/O/A/251v_25780_17.png"/>
+<desc>Réalisations du O dans A.</desc></figure>
+Allograph: P
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/P/A/246v_24893_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/P/A/240r_23688_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/P/A/240r_23700_14.png"/>
+<desc>Réalisations du P dans A.</desc></figure>
+Allograph: Q
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/258v_27004_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/269r_28907_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/251r_25616_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/269r_28871_5.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/239v_23611_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/258v_26980_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/Q/A/260v_27366_8.png"/>
+<desc>Réalisations du Q dans A.</desc></figure>
+Allograph: S
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/S/A/238v_23387_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/S/A/265v_28229_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/S/A/238v_23387_25.png"/>
+<desc>Réalisations du S dans A.</desc></figure>
+Allograph: a
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/257r_26697_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/271v_29351_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/267v_28580_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/258v_26975_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/239v_23616_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/249v_25348_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/a/A/255v_26489_27.png"/>
+<desc>Réalisations du a dans A.</desc></figure>
+Allograph: b
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/264v_28111_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/263r_27808_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/257r_26702_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/269r_28913_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/274r_29829_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/242v_24157_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/b/A/263v_27923_20.png"/>
+<desc>Réalisations du b dans A.</desc></figure>
+Allograph: c
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/259r_27114_10.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/266v_28468_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/259r_27112_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/252v_25955_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/237r_23148_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/268v_28778_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/c/A/249v_25429_18.png"/>
+<desc>Réalisations du c dans A.</desc></figure>
+Allograph: d
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/264v_28109_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/266r_28366_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/237v_23274_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/264v_28043_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/269v_28967_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/245v_24685_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/d/A/263v_27902_0.png"/>
+<desc>Réalisations du d dans A.</desc></figure>
+Allograph: e
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/269v_28997_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/261v_27515_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/254v_26294_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/241r_23894_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/256r_26586_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/249v_25348_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/e/A/254v_26328_28.png"/>
+<desc>Réalisations du e dans A.</desc></figure>
+Allograph: f
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/270r_29115_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/259v_27149_20.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/250r_25511_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/260r_27233_12.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/273r_29656_5.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/271r_29246_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/f/A/262r_27669_21.png"/>
+<desc>Réalisations du f dans A.</desc></figure>
+Allograph: g
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/254v_26314_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/245v_24647_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/252r_25815_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/267v_28658_12.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/255v_26481_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/241r_23857_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/g/A/247r_24930_2.png"/>
+<desc>Réalisations du g dans A.</desc></figure>
+Allograph: h
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/257v_26843_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/239v_23636_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/239r_23471_33.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/271v_29386_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/242r_24043_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/258r_26953_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/h/A/252v_25961_20.png"/>
+<desc>Réalisations du h dans A.</desc></figure>
+Allograph: i
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/244v_24480_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/264r_27963_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/248v_25221_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/265v_28284_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/245r_24601_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/257r_26778_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/i/A/243r_24196_21.png"/>
+<desc>Réalisations du i dans A.</desc></figure>
+Allograph: j
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/238v_23397_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/252v_25929_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/270v_29156_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/239r_23550_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/239v_23576_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/238r_23329_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/j/A/273v_29736_24.png"/>
+<desc>Réalisations du j dans A.</desc></figure>
+Allograph: l
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/247r_24984_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/270r_29037_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/238v_23400_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/242r_24010_18.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/273r_29583_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/247r_24937_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/l/A/264v_28083_4.png"/>
+<desc>Réalisations du l dans A.</desc></figure>
+Allograph: m
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/236v_23096_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/251r_25688_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/249v_25381_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/257r_26758_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/251r_25672_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/269v_28954_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/m/A/237v_23224_27.png"/>
+<desc>Réalisations du m dans A.</desc></figure>
+Allograph: n
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/241v_23959_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/251r_25689_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/269r_28897_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/237v_23232_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/259v_27204_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/249r_25287_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/n/A/260v_27390_16.png"/>
+<desc>Réalisations du n dans A.</desc></figure>
+Allograph: o
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/253r_26030_28.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/265v_28232_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/253v_26115_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/251r_25661_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/258v_26981_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/249v_25420_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/o/A/250r_25460_27.png"/>
+<desc>Réalisations du o dans A.</desc></figure>
+Allograph: p
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/270v_29165_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/260r_27290_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/266v_28408_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/245r_24612_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/258r_26881_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/255r_26341_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/p/A/244v_24500_12.png"/>
+<desc>Réalisations du p dans A.</desc></figure>
+Allograph: point
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/257v_26804_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/265v_28242_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/238r_23338_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/240v_23763_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/263r_27826_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/242v_24111_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point/A/241r_23907_11.png"/>
+<desc>Réalisations du point dans A.</desc></figure>
+Allograph: point_suscrit
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/261r_27497_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/237r_23171_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/240r_23712_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/271v_29356_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/265v_28289_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/247v_25035_33.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/point_suscrit/A/272r_29421_27.png"/>
+<desc>Réalisations du point_suscrit dans A.</desc></figure>
+Allograph: q
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/259r_27089_10.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/255r_26341_28.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/274r_29825_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/260r_27252_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/269v_28954_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/267r_28527_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/q/A/241v_23997_4.png"/>
+<desc>Réalisations du q dans A.</desc></figure>
+Allograph: r
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/263v_27892_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/269r_28927_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/262r_27670_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/268v_28767_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/268v_28795_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/244v_24464_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r/A/265r_28173_25.png"/>
+<desc>Réalisations du r dans A.</desc></figure>
+Allograph: r_suscrit
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r_suscrit/A/241r_23902_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r_suscrit/A/258r_26892_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/r_suscrit/A/249v_25415_28.png"/>
+<desc>Réalisations du r_suscrit dans A.</desc></figure>
+Allograph: s
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/268r_28674_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/245r_24599_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/272r_29474_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/265v_28232_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/272r_29478_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/255r_26411_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s/A/241v_23988_11.png"/>
+<desc>Réalisations du s dans A.</desc></figure>
+Allograph: s_SUSCRIT
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/249v_25376_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/260v_27371_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/261r_27495_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/256v_26628_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/255r_26376_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/245v_24662_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/s_SUSCRIT/A/263v_27869_33.png"/>
+<desc>Réalisations du s_SUSCRIT dans A.</desc></figure>
+Allograph: t
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/236v_23036_20.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/236v_23071_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/262r_27600_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/250v_25527_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/243v_24275_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/239v_23580_25.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/t/A/255v_26422_6.png"/>
+<desc>Réalisations du t dans A.</desc></figure>
+Allograph: u
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/243v_24310_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/244r_24405_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/238v_23418_10.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/249v_25375_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/237v_23216_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/258r_26936_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/u/A/237r_23162_5.png"/>
+<desc>Réalisations du u dans A.</desc></figure>
+Allograph: v
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/250r_25477_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/247v_25008_10.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/248v_25235_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/239r_23539_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/268v_28810_8.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/239r_23537_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/v/A/243v_24314_6.png"/>
+<desc>Réalisations du v dans A.</desc></figure>
+Allograph: x
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/269v_28963_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/271r_29270_9.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/250v_25569_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/245v_24681_11.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/236v_23062_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/270r_29036_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/x/A/242v_24107_2.png"/>
+<desc>Réalisations du x dans A.</desc></figure>
+Allograph: y
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/243v_24318_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/243v_24351_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/250v_25575_10.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/250r_25478_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/239v_23622_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/269r_28938_22.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/y/A/274v_29844_15.png"/>
+<desc>Réalisations du y dans A.</desc></figure>
+Allograph: z
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/269r_28919_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/243v_24307_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/267r_28576_15.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/258r_26912_2.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/270r_29102_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/263v_27888_16.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/z/A/250r_25439_20.png"/>
+<desc>Réalisations du z dans A.</desc></figure>
+Allograph: °
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/272v_29542_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/238v_23400_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/249r_25289_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/246r_24765_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/259v_27229_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/238v_23400_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/°/A/247v_25054_23.png"/>
+<desc>Réalisations du ° dans A.</desc></figure>
+Allograph: ·
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/·/A/254r_26239_5.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/·/A/260r_27319_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/·/A/239r_23550_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/·/A/252r_25881_3.png"/>
+<desc>Réalisations du · dans A.</desc></figure>
+Allograph: ç
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/261v_27549_6.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/258r_26921_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/236v_23016_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/261v_27570_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/270v_29201_19.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/243r_24238_3.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ç/A/269r_28908_3.png"/>
+<desc>Réalisations du ç dans A.</desc></figure>
+Allograph: ï
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/258r_26928_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/236v_23092_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/236v_23092_33.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/240r_23647_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/245v_24661_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ï/A/239v_23553_30.png"/>
+<desc>Réalisations du ï dans A.</desc></figure>
+Allograph: ſ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/256v_26622_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/254r_26214_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/238v_23422_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/267v_28641_23.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/239r_23531_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/266v_28460_17.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ſ/A/252r_25869_20.png"/>
+<desc>Réalisations du ſ dans A.</desc></figure>
+Allograph: ˢ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ˢ/A/252r_25817_33.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ˢ/A/240v_23732_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ˢ/A/253v_26115_30.png"/>
+<desc>Réalisations du ˢ dans A.</desc></figure>
+Allograph: ̄
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/267v_28629_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/265v_28259_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/256r_26589_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/267v_28632_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/243v_24308_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/254v_26260_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̄/A/263r_27780_0.png"/>
+<desc>Réalisations du ̄ dans A.</desc></figure>
+Allograph: ̈
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/261r_27421_1.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/257r_26766_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/257v_26865_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/274r_29774_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/264r_28012_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/255r_26408_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/̈/A/272r_29457_0.png"/>
+<desc>Réalisations du ̈ dans A.</desc></figure>
+Allograph: ͤ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ͤ/A/245v_24683_12.png"/>
+<desc>Réalisations du ͤ dans A.</desc></figure>
+Allograph: ⁊
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/237v_23239_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/261v_27504_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/240r_23674_7.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/250v_25531_13.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/238r_23337_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/244v_24495_14.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/⁊/A/237v_23204_21.png"/>
+<desc>Réalisations du ⁊ dans A.</desc></figure>
+Allograph: ꝑ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/250r_25524_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/252v_25884_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/270v_29197_27.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/265v_28276_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/270r_29121_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/254r_26239_0.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝑ/A/250r_25523_0.png"/>
+<desc>Réalisations du ꝑ dans A.</desc></figure>
+Allograph: ꝛ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/250v_25555_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/261r_27416_30.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/267r_28531_4.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/263r_27836_24.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/255v_26424_5.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/263v_27912_21.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝛ/A/242v_24142_6.png"/>
+<desc>Réalisations du ꝛ dans A.</desc></figure>
+Allograph: ꝫ
+
+<figure><graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/269r_28860_26.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/267r_28514_28.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/263v_27921_28.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/250v_25549_32.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/242r_24053_29.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/254r_26191_31.png"/>
+<graphic scale="1" url="/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/Facsimiles/images_these/allographs/ꝫ/A/254r_26238_23.png"/>
+<desc>Réalisations du ꝫ dans A.</desc></figure>

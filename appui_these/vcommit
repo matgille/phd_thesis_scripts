@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+
+# -*- coding: utf-8 -*-
+# Premier script: vérification de la conformité au patron, puis appel au second script. 
+import re
+import sys
+import datetime
+import subprocess
+from lxml import etree
+
+# Créer une option: long messag de validation
+# if re.string("-l", argv[1]):
+#	message=' '.join(sys.argv[2:])
+# else:
+#	message=' '.join(sys.argv[1:])
+# ...
+# ...
+# if re.string("-l", argv[1]):
+# validation=input("Veuillez entrer votre message de validation:")
+# git commit -m "$message \n\n $validation"
+
+
+message = ' '.join(sys.argv[
+                   1:])  # crée une liste avec les arguments à partir du second, puis concatène avec des espaces. voir https://stackoverflow.com/a/37658207
+
+# Ajouter une règle pour le numéro de chapitre, du type (n) où n est un entier, ou une suite d'entiers séparés par des virgules.
+while not re.match(r'\[.{2,25}\]\s.+',
+                   message):  # vérification de la conformité au patron. r'' indique que l'on veut des caractères bruts. Voir https://stackoverflow.com/a/21104539
+    message = input(
+        "Le message de validation n'est pas conforme. Patron: '[fichier(s)] chapitre.s modifications', pas plus de 60 caractères; veuillez recommencer: ")
+
+print("Conformité au patron imposé: check.")
+
+longueur = len(message)  # vérification de la longueur
+longueur_max = 75
+while longueur > longueur_max:  # vérification de la longueur du message
+    print("Longueur du message: " + str(longueur))
+    message = input("Pas plus de 60 caractères; veuillez recommencer: ")  # input est l'equivalent python de read
+    longueur = len(message)
+
+print("Longueur conforme ! Validation. ")
+
+#  Il reste à trouver comment invoquer les commandes git dans le script. Essayer avec subprocess
+# Une possibilité: faire appel au script bash de validation. Problème: cela donne 3 scripts différents pour le même objectif. 
+# message=str(message)
+# subprocess.check_call(['git_validator.sh', message])  # Appel au script bash pour faire le commit avec subprocess.
+
+print("Le message de validation est:\n%s", message)
+
+
+def retour_subprocess(i):
+    return subprocess.run(i.split(), stdout=subprocess.PIPE).stdout.decode().strip("\n")
+# https://stackoverflow.com/questions/4760215/running-shell-command-and-capturing-the-output
+# https://stackoverflow.com/questions/45222110/how-can-i-remove-n-and-r-n-from-stdout-in-python
+
+
+instruction_branche = "git rev-parse --abbrev-ref HEAD"
+print("La branche sur laquelle vous validez est: \n%s" % retour_subprocess(instruction_branche))
+
+print("git commit -m \"%s\"" % message)
+subprocess.call(["git", "commit", "-m", message])
+
+git_hash = retour_subprocess("git rev-parse --verify HEAD")
+print("git hash: %s" % git_hash)
+## Troisième partie: on ajoute les informations au log si besoin.
+
+tree = etree.parse('/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/XML/corpus/revision_desc.xml')
+message_commit = message  # second paramètre: le message de commit
+identifiant = git_hash  # xml:id ne peut pas commencer par un chiffre
+revisionDesc = tree.xpath('/tei:revisionDesc',
+                          namespaces={'tei': 'http://www.tei-c.org/ns/1.0'})  # attention aux espaces de noms.
+
+changen = tree.xpath('/tei:revisionDesc/tei:change/@n',
+                     namespaces={'tei': 'http://www.tei-c.org/ns/1.0'})  # récupération de tous les @n de tei:change
+
+ladate = datetime.datetime.now().isoformat()
+
+# on récupère le nom de fichier entre crochets
+extraction_fichier_modifie0 = message_commit.split("]")
+extraction_fichier_modifie1 = extraction_fichier_modifie0[0]
+extraction_fichier_modifie2 = extraction_fichier_modifie1.split("[")
+extraction_fichier_modifie3 = extraction_fichier_modifie2[1]
+print("Fichiers modifiés: " + extraction_fichier_modifie3)
+# on récupère le nom de fichier entre crochets
+
+
+# Si on trouve la chaine de caractères ".xml", on fait tourner la suite.
+if re.search("(\.xml|\.dtd)", extraction_fichier_modifie3):
+    print("Des fichiers xml ou assimilés ont été modifiés: ajout au revisionDesc")
+    ID_derniere_revision = changen[0]  # @n du premier noeud tei:change
+
+    if ID_derniere_revision == identifiant:
+        print("Vous avez déjà validé")
+
+    else:
+        print("revisionDesc modifiée.")
+        revDesc = tree.getroot()
+        change = tree.getroot().insert(0, etree.Element("{http://www.tei-c.org/ns/1.0}change"))  # namespaces à la ***.
+        # sélectionner dans une liste ce change
+        liste_change = tree.xpath('/tei:revisionDesc/tei:change[1]', namespaces={'tei': 'http://www.tei-c.org/ns/1.0'})
+        premier_change = liste_change[0]  # en extraire l'unique entrée
+        premier_change.set('n', str(identifiant))  # ajouter un @n
+        premier_change.set('when', str(ladate))  # ajouter la date
+        message_commit_unicode = " u'" + message_commit + "'"  # convertir en unicode le message de commit
+        premier_change.text = message_commit # règle les problèmes d'encodage
+
+    tree.write(
+        '/home/mgl/Bureau/These/Edition/hyperregimiento-de-los-principes/Dedans/XML/corpus/revision_desc.xml')  # enregistrement des modifications
+
+
+else:  # Sinon, on considère qu'aucun fichier xml n'a été modifié.
+    print("Les fichiers modifiés ne sont pas des fichiers xml. Pas d'ajout au revisionDesc.")

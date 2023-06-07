@@ -1,0 +1,7451 @@
+.Ca .ca RG 0.461185
+los el DA0MP0 0.964169
+
+.E .e RG 0.121654
+poꝛ poꝛ AQ0CS00 0.0305452
+auentura aventura NCFS000 0.916667
+
+Ca ca CS 0.982082
+la el DA0FS0 0.897854
+
+Ca ca CS 0.982082
+la el DA0FS0 0.897854
+
+Ca ca CS 0.982082
+los el DA0MP0 0.964169
+
+Ca ca CS 0.982082
+los el DA0MP0 0.964169
+
+Ca ca CS 0.982082
+los el DA0MP0 0.964169
+
+Ca ca CS 0.982082
+los el DA0MP0 0.964169
+
+Ca ca CS 0.982082
+los el DA0MP0 0.964169
+
+Ca ca CS 0.982082
+ninguno ninguno PI0MS000 0.66129
+
+Ca ca CS 0.982082
+pueſto pueſto RG 0.142356
+
+Ca ca CS 0.982082
+ſabian ſabian VMII3P0 1
+
+Ca ca CS 0.982082
+ſegunt ſegunt AQ0CS00 0.74026
+
+Ca ca CS 0.982082
+ſi ſi RG 0.913525
+
+Ca ca CS 0.982082
+ꝺezia ꝺezia VMII3S0 0.666769
+
+De de SPS00 0.999758
+la el DA0FS0 0.897854
+
+E e CC 1
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+E e CC 1
+agoꝛa agoꝛa VMII3S0 0.124879
+
+E e CC 1
+al al_a+al_el SP+DA 0.915677
+
+E e CC 1
+alli allí RG 1
+
+E e CC 1
+alli allí RG 1
+
+E e CC 1
+alli allí RG 1
+
+E e CC 1
+antiguamente antiguamente RG 1
+
+E e CC 1
+aquel aquel DD0MS0 0.849576
+
+E e CC 1
+aqui aquí RG 1
+
+E e CC 1
+aun aun RG 1
+
+E e CC 1
+aun aun RG 1
+
+E e CC 1
+aun aun RG 1
+q̅ q̅ VMIS3S0 0.0525441
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+aſi aſi RG 0.913525
+
+E e CC 1
+el el DA0MS0 0.880831
+maeſtro maeſtro NCMS000 0.143843
+
+E e CC 1
+el el DA0MS0 0.880831
+rey rey NCMS000 1
+
+E e CC 1
+el el DA0MS0 0.880831
+rey rey NCMS000 1
+
+E e CC 1
+ellos ellos PP3MP000 1
+
+E e CC 1
+en en SPS00 1
+la el DA0FS0 0.897854
+
+E e CC 1
+en en SPS00 1
+las el DA0FP0 0.860393
+
+E e CC 1
+en en SPS00 1
+qual cuál DT0CS0 1
+
+E e CC 1
+eſto eſto RG 0.142356
+
+E e CC 1
+eſto eſto RG 0.142356
+
+E e CC 1
+eſto eſto RG 0.142356
+
+E e CC 1
+eſtonçe eſtonçe RG 0.8
+
+E e CC 1
+l le PP3CSD00 0.0902443
+
+
+E e CC 1
+la el DA0FS0 0.897854
+
+E e CC 1
+la el DA0FS0 0.897854
+
+E e CC 1
+la el DA0FS0 0.897854
+bolſa bolſa NCFS000 0.474205
+
+E e CC 1
+las el DA0FP0 0.860393
+
+E e CC 1
+llamo llamar VMIS3S0 0.500031
+
+E e CC 1
+lo lo PP3CNa00 0.348232
+
+E e CC 1
+los el DA0MP0 0.964169
+
+E e CC 1
+los el DA0MP0 0.964169
+
+E e CC 1
+luego luego RG 0.905405
+
+E e CC 1
+pa pa NCMS000 0.687348
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+auentura aventura NCFS000 0.916667
+
+E e CC 1
+poꝛ poꝛ VMIS3S0 0.0525441
+en en SPS00 1
+
+E e CC 1
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+E e CC 1
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+E e CC 1
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+E e CC 1
+quanꝺo quanꝺo VMIS3S0 0.23743
+
+E e CC 1
+quanꝺo quanꝺo VMIS3S0 0.23743
+
+E e CC 1
+quien quien PR0CS000 1
+
+E e CC 1
+quiere querer VMIP3S0 0.983871
+
+E e CC 1
+reſpȯ reſpȯ VMIS3S0 0.0525441
+
+E e CC 1
+tan tan RG 1
+
+E e CC 1
+tenia tener VMII1S0 0.5
+
+E e CC 1
+toꝺo toꝺo VMIS3S0 0.23743
+
+E e CC 1
+vn uno DI0MS0 0.965785
+
+E e CC 1
+ſi ſi RG 0.913525
+
+
+E e CC 1
+ſi ſi RG 0.913525
+los el DA0MP0 0.964169
+
+E e CC 1
+ꝺeſpues ꝺeſpues RG 1
+
+E e CC 1
+ꝺeſpues ꝺeſpues RG 1
+
+E e CC 1
+ꝺeſpues ꝺeſpues RG 1
+
+E e CC 1
+ꝺeſpues ꝺeſpues RG 1
+
+E e CC 1
+ꝺize ꝺize VMIP3S0 0.916694
+
+E e CC 1
+ꝺo ꝺo VMIS3S0 0.23743
+
+El el DA0MS0 0.880831
+pꝛimero pꝛimero RG 1
+
+En en SPS00 1
+eſte eſte NCFS000 0.405354
+
+En en SPS00 1
+tres 3 Z 0.280029
+
+En en SPS00 1
+tres 3 Z 0.280029
+
+En en SPS00 1
+ꝺos ꝺos NCMP000 0.544159
+
+Mas mas CC 0.345275
+eſto eſto RG 0.142356
+
+Mas mas CC 0.345275
+ſi ſi RG 0.913525
+
+Non no RN 0.99968
+es ser VSIP3S0 1
+
+O o CC 0.99692
+ponienꝺo ponienꝺo VMIS3S0 0.23743
+
+Sin sin SPS00 1
+las el DA0FP0 0.860393
+
+
+⁊ ⁊ Fz 1
+poꝛ poꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+
+ſus ſus I 1
+
+a a SPS00 0.956937
+ale ale NCFS000 0.295463
+
+a a SPS00 0.956937
+algunas alguno DI0FP0 0.990196
+
+a a SPS00 0.956937
+algunas alguno DI0FP0 0.990196
+
+a a SPS00 0.956937
+allenꝺe allenꝺe NCMS000 0.219365
+
+a a SPS00 0.956937
+anibal aníbal NP000P0 1
+
+a a SPS00 0.956937
+aquel aquel DD0MS0 0.849576
+
+a a SPS00 0.956937
+aquellos aquel PD0MP000 0.65411
+
+a a SPS00 0.956937
+aquellos aquel PD0MP000 0.65411
+
+a a SPS00 0.956937
+bien bien RG 0.963887
+
+a a SPS00 0.956937
+bien bien RG 0.963887
+
+a a SPS00 0.956937
+biė biė NCMS000 0.175279
+
+a a SPS00 0.956937
+buen bueno AQ0MS0 1
+
+a a SPS00 0.956937
+buen bueno AQ0MS0 1
+
+a a SPS00 0.956937
+buſ buſ NCMS000 0.175279
+
+a a SPS00 0.956937
+buſcar buſcar VMN0000 1
+
+a a SPS00 0.956937
+buſcar buſcar VMN0000 1
+
+a a SPS00 0.956937
+bꝛamar bꝛamar VMN0000 0.785779
+
+a a SPS00 0.956937
+caualgar cabalgar VMN0000 1
+
+a a SPS00 0.956937
+caças caza NCFP000 0.749011
+
+a a SPS00 0.956937
+caſtillos caſtillos NCMP000 1
+
+a a SPS00 0.956937
+caꝺa caꝺa NCFS000 0.474205
+
+a a SPS00 0.956937
+cercar cercar VMN0000 1
+
+a a SPS00 0.956937
+cercar cercar VMN0000 1
+
+a a SPS00 0.956937
+cercarlos cercar+lo VMN0000+PP3MPA00 1
+
+a a SPS00 0.956937
+colas cola NCFP000 1
+
+a a SPS00 0.956937
+com con SPS00 1
+
+a a SPS00 0.956937
+conbatir combatir VMN0000 1
+
+a a SPS00 0.956937
+conbatir combatir VMN0000 1
+
+a a SPS00 0.956937
+conbatirla combatir+lo VMN0000+PP3FSA00 1
+
+a a SPS00 0.956937
+coſa coſa NCFS000 0.474205
+
+a a SPS00 0.956937
+coꝛrer coꝛrer VMN0000 1
+⁊ ⁊ Fz 1
+
+a a SPS00 0.956937
+el el DA0MS0 0.880831
+
+a a SPS00 0.956937
+el el DA0MS0 0.880831
+
+a a SPS00 0.956937
+el el DA0MS0 0.880831
+
+a a SPS00 0.956937
+el el DA0MS0 0.880831
+
+a a SPS00 0.956937
+el el DA0MS0 0.880831
+
+a a SPS00 0.956937
+el. el. NCMS000 0.175279
+
+a a SPS00 0.956937
+ello ello PD0NS000 0.493071
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+ellos. ellos. NCMS000 0.175279
+
+a a SPS00 0.956937
+ellos. ellos. NCMS000 0.175279
+
+a a SPS00 0.956937
+entenꝺer entenꝺer VMN0000 0.640606
+
+a a SPS00 0.956937
+enxenplo ejemplo NCMS000 1
+
+a a SPS00 0.956937
+eſ eſ NCMS000 0.175279
+
+a a SPS00 0.956937
+eſta eſta NCFS000 0.424355
+
+a a SPS00 0.956937
+eſta eſta NCFS000 0.424355
+
+a a SPS00 0.956937
+eſte eſte NCFS000 0.405354
+
+a a SPS00 0.956937
+eſte eſte NCFS000 0.405354
+
+a a SPS00 0.956937
+eſtos eſtos NCMP000 0.778913
+
+a a SPS00 0.956937
+eſtos eſtos NCMP000 0.778913
+
+a a SPS00 0.956937
+fazer hacer VMN0000 1
+
+a a SPS00 0.956937
+fazer hacer VMN0000 1
+
+a a SPS00 0.956937
+fazer hacer VMN0000 1
+
+a a SPS00 0.956937
+fazer hacer VMN0000 1
+
+a a SPS00 0.956937
+fazerles hacer+le VMN0000+PP3CPD00 1
+
+a a SPS00 0.956937
+fijo hijo NCMS000 1
+
+a a SPS00 0.956937
+foꝛma foꝛma NCFS000 0.705863
+
+a a SPS00 0.956937
+fuer ser VSSF1S0 0.5
+
+a a SPS00 0.956937
+fuyꝛ fuyꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+fuyꝛ fuyꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+gaſtar gaſtar VMN0000 0.944436
+
+a a SPS00 0.956937
+granꝺes granꝺes NCMP000 0.305671
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+poſtre poſtre NCFS000 0.333431
+
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+çibꝺat çibꝺat NCFS000 0.924048
+
+a a SPS00 0.956937
+lançar lanzar VMN0000 1
+
+a a SPS00 0.956937
+lançar lanzar VMN0000 1
+
+a a SPS00 0.956937
+lançar lanzar VMN0000 1
+
+a a SPS00 0.956937
+lançar lanzar VMN0000 1
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+leuar levar VMN0000 1
+
+a a SPS00 0.956937
+leuar levar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar liꝺiar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar liꝺiar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar liꝺiar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar liꝺiar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar liꝺiar VMN0000 1
+
+a a SPS00 0.956937
+liꝺiar. liꝺiar. NCMS000 0.175279
+
+a a SPS00 0.956937
+lo el DA0NS0 0.30297
+
+a a SPS00 0.956937
+lo el DA0NS0 0.30297
+
+a a SPS00 0.956937
+lo el DA0NS0 0.30297
+
+a a SPS00 0.956937
+lo el DA0NS0 0.30297
+
+a a SPS00 0.956937
+lo el DA0NS0 0.30297
+
+a a SPS00 0.956937
+logar lugar NCMS000 1
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+los.ꝫ los.ꝫ NCMS000 0.175279
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+liꝺiaꝺoꝛes liꝺiaꝺoꝛes NCMP000 0.305671
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+mios. mios. NCMS000 0.175279
+
+a a SPS00 0.956937
+loᷤ loᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+loᷤ loᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+loᷤ loᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+maloᷤ maloᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+manera manera NCFS000 1
+
+a a SPS00 0.956937
+manera manera NCFS000 1
+
+a a SPS00 0.956937
+manera manera NCFS000 1
+
+a a SPS00 0.956937
+manꝺar. manꝺar. NCMS000 0.175279
+
+a a SPS00 0.956937
+mayoꝛ mayoꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+maᷤ maᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+mi mi DP1CSS 0.879781
+
+a a SPS00 0.956937
+miſa. miſa. NCMS000 0.175279
+
+a a SPS00 0.956937
+moſtrar moſtrar VMN0000 1
+
+a a SPS00 0.956937
+muchos mucho DI0MP0 0.876506
+
+a a SPS00 0.956937
+muchos mucho DI0MP0 0.876506
+
+a a SPS00 0.956937
+muchos mucho DI0MP0 0.876506
+
+a a SPS00 0.956937
+muy muy RG 1
+
+a a SPS00 0.956937
+naꝺar naꝺar VMN0000 0.911404
+
+a a SPS00 0.956937
+ningu ningu NCMS000 1
+
+a a SPS00 0.956937
+ninguno ninguno PI0MS000 0.66129
+
+a a SPS00 0.956937
+ninguno ninguno PI0MS000 0.66129
+
+a a SPS00 0.956937
+ninguno ninguno PI0MS000 0.66129
+
+a a SPS00 0.956937
+ningu̇t ningu̇t NCFS000 0.513734
+
+a a SPS00 0.956937
+ofreſçer. ofreſçer. NCMS000 0.175279
+
+a a SPS00 0.956937
+oṁe. oṁe. NCMS000 0.175279
+
+a a SPS00 0.956937
+otra. otra. NCMS000 0.175279
+
+a a SPS00 0.956937
+otras otro DI0FP0 0.698675
+
+a a SPS00 0.956937
+otro. otro. NCMS000 0.175279
+
+a a SPS00 0.956937
+otros otro DI0MP0 0.652439
+
+a a SPS00 0.956937
+ots̊ ots̊ NCMS000 0.175279
+
+a a SPS00 0.956937
+partir partir VMN0000 1
+
+a a SPS00 0.956937
+paſar. paſar. NCMS000 0.175279
+
+a a SPS00 0.956937
+pelear pelear VMN0000 1
+
+a a SPS00 0.956937
+pelear pelear VMN0000 1
+
+a a SPS00 0.956937
+peligro peligro NCMS000 0.846154
+
+a a SPS00 0.956937
+peligro peligro NCMS000 0.846154
+
+a a SPS00 0.956937
+peligros peligro NCMP000 1
+
+a a SPS00 0.956937
+peoꝛia. peoꝛia. NCMS000 0.175279
+
+a a SPS00 0.956937
+perſeguir perſeguir VMN0000 0.750166
+
+a a SPS00 0.956937
+pieꝺat pieꝺat NCFS000 0.924048
+
+a a SPS00 0.956937
+puerto. puerto. NCMS000 0.175279
+
+a a SPS00 0.956937
+pꝛo pꝛo NCMS000 0.40787
+
+a a SPS00 0.956937
+pꝛo. pꝛo. NCMS000 0.175279
+
+a a SPS00 0.956937
+pꝛo. pꝛo. NCMS000 0.175279
+
+a a SPS00 0.956937
+quales cuál PT0CP000 1
+
+a a SPS00 0.956937
+quatro cuatro NCMS000 0.633609
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+que que PR0CN000 0.648953
+
+a a SPS00 0.956937
+quebꝛantar quebꝛantar VMN0000 0.666888
+
+a a SPS00 0.956937
+querer querer VMN0000 0.96875
+
+a a SPS00 0.956937
+quien quien PR0CS000 1
+
+a a SPS00 0.956937
+quien quien PR0CS000 1
+
+a a SPS00 0.956937
+quien quien PR0CS000 1
+
+a a SPS00 0.956937
+quien quien PR0CS000 1
+
+a a SPS00 0.956937
+quien quien PR0CS000 1
+
+a a SPS00 0.956937
+q̅ q̅ NCMS000 0.175279
+
+a a SPS00 0.956937
+q̇ q̇ NCMS000 0.175279
+
+a a SPS00 0.956937
+razonar razonar VMN0000 1
+
+a a SPS00 0.956937
+re re NCMS000 0.633608
+
+a a SPS00 0.956937
+rey rey NCMS000 1
+
+a a SPS00 0.956937
+reſçebir reſçebir VMN0000 1
+
+a a SPS00 0.956937
+rogarle rogar+le VMN0000+PP3CSD00 1
+
+a a SPS00 0.956937
+roma roma NP000G0 1
+
+a a SPS00 0.956937
+ruego rogar VMIP1S0 0.987805
+
+a a SPS00 0.956937
+tales tal PD0CP000 0.723214
+
+a a SPS00 0.956937
+tenerles tener+le VMN0000+PP3CPD00 1
+
+a a SPS00 0.956937
+tomar tomar VMN0000 1
+
+a a SPS00 0.956937
+tomar tomar VMN0000 1
+le le PP3CSD00 1
+
+a a SPS00 0.956937
+toꝺa toꝺa NCFS000 0.474205
+
+a a SPS00 0.956937
+toꝺa toꝺa NCFS000 0.474205
+
+a a SPS00 0.956937
+toꝺa toꝺa NCFS000 0.474205
+
+a a SPS00 0.956937
+toꝺas toꝺas NCFP000 0.54149
+
+a a SPS00 0.956937
+toꝺas toꝺas NCFP000 0.54149
+
+a a SPS00 0.956937
+toꝺas toꝺas NCFP000 0.54149
+
+a a SPS00 0.956937
+toꝺas toꝺas NCFP000 0.54149
+
+a a SPS00 0.956937
+toꝺo toꝺo NCMS000 0.40787
+
+a a SPS00 0.956937
+toꝺo toꝺo NCMS000 0.40787
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺos toꝺos NCMP000 0.544159
+
+a a SPS00 0.956937
+toꝺoᷤ toꝺoᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+toꝺoᷤ toꝺoᷤ NCMS000 0.175279
+
+a a SPS00 0.956937
+traba traba NCFS000 0.515472
+
+a a SPS00 0.956937
+traer traer VMN0000 1
+
+a a SPS00 0.956937
+trayꝺoꝛ trayꝺoꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+trayꝺoꝛ. trayꝺoꝛ. NCMS000 0.175279
+
+a a SPS00 0.956937
+tremir tremer VMN0000 1
+
+a a SPS00 0.956937
+troya troya NP000G0 1
+
+a a SPS00 0.956937
+una uno DI0FS0 0.763441
+
+a a SPS00 0.956937
+vana vano AQ0FS0 1
+gloꝛia gloꝛia NCFS000 0.485606
+
+a a SPS00 0.956937
+vaniꝺat vaniꝺat NCFS000 0.924048
+
+a a SPS00 0.956937
+viçio. viçio. NCMS000 0.175279
+
+a a SPS00 0.956937
+vn uno DI0MS0 0.965785
+
+a a SPS00 0.956937
+vna uno DI0FS0 0.862903
+
+a a SPS00 0.956937
+vſar vſar VMN0000 0.911404
+
+a a SPS00 0.956937
+vſo vſo NCMS000 0.40787
+
+a a SPS00 0.956937
+çinco cinco NCMS000 0.633609
+
+a a SPS00 0.956937
+ſa ſa NCFS000 0.474205
+
+a a SPS00 0.956937
+ſemeiar ſemeiar VMN0000 1
+
+a a SPS00 0.956937
+ſer ſer VMN0000 0.640606
+
+a a SPS00 0.956937
+ſi ſi RG 0.913525
+
+a a SPS00 0.956937
+ſi ſi RG 0.913525
+
+a a SPS00 0.956937
+ſi ſi RG 0.913525
+
+a a SPS00 0.956937
+ſinieſtro ſinieſtro RG 0.285366
+
+a a SPS00 0.956937
+ſinieſtro ſinieſtro RG 0.285366
+
+a a SPS00 0.956937
+ſofrir ſofrir VMN0000 1
+
+a a SPS00 0.956937
+ſoiuꝺgar ſoiuꝺgar VMN0000 0.64887
+
+a a SPS00 0.956937
+ſoſpirar ſoſpirar VMN0000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+
+a a SPS00 0.956937
+ſu ſu NCMS000 1
+paꝺꝛe paꝺꝛe AQ0CS00 0.118432
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſus ſus I 1
+
+a a SPS00 0.956937
+ſuˢ ſuˢ NCMS000 0.175279
+
+a a SPS00 0.956937
+ſuꝺar. ſuꝺar. NCMS000 0.175279
+
+a a SPS00 0.956937
+ſy ſy RG 0.62834
+
+a a SPS00 0.956937
+ꝺar ꝺar VMN0000 0.911404
+
+a a SPS00 0.956937
+ꝺario ꝺario NCMS000 0.333524
+
+a a SPS00 0.956937
+ꝺarſe ꝺarſe NCMS000 0.219365
+
+a a SPS00 0.956937
+ꝺe ꝺe NCMS000 0.219365
+
+a a SPS00 0.956937
+ꝺefenꝺerſe ꝺefenꝺerſe NCMS000 0.219365
+
+a a SPS00 0.956937
+ꝺefenꝺerſele ꝺefenꝺerſele VMIP3S0 1
+
+a a SPS00 0.956937
+ꝺeleyte ꝺeleyte VMIP3S0 1
+
+a a SPS00 0.956937
+ꝺemanꝺarle ꝺemanꝺarle AQ0CS00 0.753443
+
+a a SPS00 0.956937
+ꝺezir ꝺezir VMN0000 1
+
+a a SPS00 0.956937
+ꝺeſcobꝛir ꝺeſcobꝛir VMN0000 0.952719
+
+a a SPS00 0.956937
+ꝺeſcubꝛir. ꝺeſcubꝛir. NCMS000 0.175279
+
+a a SPS00 0.956937
+ꝺeſear ꝺeſear VMN0000 1
+
+a a SPS00 0.956937
+ꝺeſoꝛa ꝺeſoꝛa NCFS000 0.474205
+
+a a SPS00 0.956937
+ꝺieſtro ꝺieſtro RG 0.285366
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios ꝺios NCMS000 0.640555
+
+a a SPS00 0.956937
+ꝺios. ꝺios. NCMS000 0.175279
+
+acometie acometie VMII3S0 0.755487
+ſen ſen RG 0.315735
+
+al al_a+al_el SP+DA 0.915677
+arte arte NCCS000 1
+
+al al_a+al_el SP+DA 0.915677
+camino camino NCMS000 0.441713
+
+al al_a+al_el SP+DA 0.915677
+canpo campo NCMS000 1
+
+al al_a+al_el SP+DA 0.915677
+canpo campo NCMS000 1
+
+al al_a+al_el SP+DA 0.915677
+eſpaꝺa eſpaꝺa NCFS000 0.474205
+
+al al_a+al_el SP+DA 0.915677
+munꝺo. munꝺo. NCMS000 0.175279
+
+al al_a+al_el SP+DA 0.915677
+muro. muro. NCMS000 0.175279
+
+al al_a+al_el SP+DA 0.915677
+otro otro PI0MS000 0.638122
+
+al al_a+al_el SP+DA 0.915677
+papa papa NCMS000 0.982301
+
+al al_a+al_el SP+DA 0.915677
+pꝛincipe pꝛincipe NCMS000 1
+
+al al_a+al_el SP+DA 0.915677
+pꝛinçipe pꝛinçipe NCMS000 0.666667
+
+al al_a+al_el SP+DA 0.915677
+pꝛinçipe pꝛinçipe NCMS000 0.666667
+
+al al_a+al_el SP+DA 0.915677
+pꝛinçipe. pꝛinçipe. NCMS000 0.175279
+
+al al_a+al_el SP+DA 0.915677
+rey rey NCMS000 1
+
+al al_a+al_el SP+DA 0.915677
+to tu DP2CSS 1
+ꝺe ꝺe NCMS000 0.219365
+
+al al_a+al_el SP+DA 0.915677
+vno uno PI0MS000 0.988439
+
+al al_a+al_el SP+DA 0.915677
+ſe ſe NCMS000 0.219365
+
+ale ale_a+ale_le SP+PP 0.704537
+xanꝺꝛe.E xanꝺꝛe.e NCMS000 0.219365
+començo comenzar VMIS3S0 0.181337
+
+alli allí RG 1
+ꝺe ꝺe VMIP3S0 0.160865
+
+amoneſtar amoneſtar VMN0000 0.944436
+los el DA0MP0 0.964169
+
+ante ante SPS00 0.378016
+los el DA0MP0 0.964169
+
+arca arca NCFS000 1
+llena lleno AQ0FS0 0.323529
+
+auer haber VMN0000 0.703704
+ꝺellos ꝺellos NCMP000 1
+
+aun aun RG 1
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+ay ahí RG 0.451327
+enxenplo ejemplo NCMS000 1
+
+aſi aſi RG 0.913525
+como como CS 0.953008
+
+aſi aſi RG 0.913525
+como como CS 0.953008
+
+aſi aſi RG 0.913525
+como como CS 0.953008
+
+aſi aſi RG 0.913525
+coṁo coṁo VMIS3S0 0.23743
+
+aſi aſi RG 0.913525
+coṁo coṁo VMIS3S0 0.23743
+
+aſi aſi RG 0.913525
+coṁo coṁo VMIS3S0 0.23743
+
+aſi aſi RG 0.913525
+les le PP3CPD00 1
+
+aſi aſi RG 0.913525
+lo lo PP3CNa00 0.348232
+
+aſi aſi RG 0.913525
+q̅ q̅ VMIS3S0 0.0525441
+
+baſteçieron baſteçieron VMIS3P0 1
+ſe ſe RG 0.121654
+
+bien bien RG 0.963887
+auenturaꝺo auenturaꝺo VMIS3S0 0.23743
+
+bien bien RG 0.963887
+las el DA0FP0 0.860393
+
+ca ca CS 0.982082
+las el DA0FP0 0.860393
+
+ca ca CS 0.982082
+maᷤ maᷤ RG 0.10762
+
+ca ca CS 0.982082
+non no RN 0.99968
+le le PP3CSD00 1
+
+ca ca CS 0.982082
+ſi ſi RG 0.913525
+
+ca ca CS 0.982082
+ꝺe ꝺe VMSI3S0 0.0752043
+
+cha ca CS 1
+tierra tierra NCFS000 1
+
+con con SPS00 1
+aquel aquel DD0MS0 0.849576
+
+con con SPS00 1
+cuerꝺas. cuerꝺas. NCMS000 0.175279
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+con con SPS00 1
+ella él PP3FS000 1
+
+con con SPS00 1
+ellas. ellas. NCMS000 0.175279
+
+con con SPS00 1
+ellaᷤ ellaᷤ NCMS000 0.175279
+
+con con SPS00 1
+ellos ellos PP3MP000 1
+
+con con SPS00 1
+ellos. ellos. NCMS000 0.175279
+
+con con SPS00 1
+ellos. ellos. NCMS000 0.175279
+
+con con SPS00 1
+eſta eſta NCFS000 0.424355
+
+con con SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+con con SPS00 1
+eſtos eſtos NCMP000 0.778913
+
+con con SPS00 1
+grant grande AQ0CS0 1
+
+con con SPS00 1
+grant grande AQ0CS0 1
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+la el DA0FS0 0.897854
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+las el DA0FP0 0.860393
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+los el DA0MP0 0.964169
+
+con con SPS00 1
+loᷤ loᷤ NCMS000 0.175279
+
+con con SPS00 1
+loᷤ loᷤ NCMS000 0.175279
+
+con con SPS00 1
+pieꝺꝛas pieꝺꝛas NCFP000 0.54149
+
+con con SPS00 1
+pocos poco DI0MP0 0.65625
+
+con con SPS00 1
+que que PR0CN000 0.648953
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+con con SPS00 1
+tal tal DD0CS0 0.776243
+
+con con SPS00 1
+tal tal DD0CS0 0.776243
+
+con con SPS00 1
+ſaetas ſaetas NCCP000 0.699995
+
+con con SPS00 1
+ſaetas. ſaetas. NCMS000 0.175279
+
+con con SPS00 1
+ſu ſu NCMS000 1
+
+con con SPS00 1
+ſu ſu NCMS000 1
+
+con con SPS00 1
+ſus ſus I 1
+
+con con SPS00 1
+ſus ſus I 1
+
+con con SPS00 1
+ſus ſus I 1
+
+con con SPS00 1
+ſuˢ ſuˢ NCMS000 0.175279
+
+conpꝛeenꝺe conpꝛeenꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+contra contra SPS00 0.982979
+la el DA0FS0 0.897854
+
+contra contra SPS00 0.982979
+las el DA0FP0 0.860393
+
+coſtunbꝛaꝺos coſtunbꝛaꝺos NCMP000 0.544159
+a a SPS00 0.956937
+
+cō cō RG 0.10762
+ellos ellos PP3MP000 1
+
+cȯ cȯ RG 0.10762
+q̇ q̇ VMIS3S0 0.0525441
+
+coꝛtaron coꝛtaron VMIS3P0 1
+los el DA0MP0 0.964169
+
+coꝛtaꝺ coꝛtaꝺ RG 0.10762
+leꝫ leꝫ VMIS3S0 0.0525441
+
+echanꝺo echanꝺo RG 0.0694316
+les le PP3CPD00 1
+
+el el DA0MS0 0.880831
+agua agua NCFS000 1
+
+el el DA0MS0 0.880831
+arte arte NCCS000 1
+
+el el DA0MS0 0.880831
+arte arte NCCS000 1
+
+el el DA0MS0 0.880831
+carnero carnero NCMS000 1
+
+el el DA0MS0 0.880831
+comentaꝺoꝛ comentaꝺoꝛ NCMS000 0.175279
+
+el el DA0MS0 0.880831
+cuerpo cuerpo NCMS000 1
+
+el el DA0MS0 0.880831
+enperaꝺoꝛ enperaꝺoꝛ NCMS000 0.175279
+
+el el DA0MS0 0.880831
+faꝺo faꝺo NCMS000 0.40787
+
+el el DA0MS0 0.880831
+grant grande AQ0CS0 1
+
+el el DA0MS0 0.880831
+mas más RG 0.654277
+
+el el DA0MS0 0.880831
+monte monte NCMS000 0.885714
+
+el el DA0MS0 0.880831
+munꝺo munꝺo NCMS000 0.40787
+
+el el DA0MS0 0.880831
+nunca nunca RG 1
+
+el el DA0MS0 0.880831
+oio. oio. NCMS000 0.175279
+
+el el DA0MS0 0.880831
+otro otro PI0MS000 0.638122
+
+el el DA0MS0 0.880831
+oꝛo oꝛo NCMS000 0.40787
+
+el el DA0MS0 0.880831
+palaçio palacio NCMS000 1
+
+el el DA0MS0 0.880831
+papa papa NCMS000 0.982301
+
+el el DA0MS0 0.880831
+paꝺꝛe paꝺꝛe NCMS000 0.219365
+
+el el DA0MS0 0.880831
+pertigo pértigo NCMS000 1
+
+el el DA0MS0 0.880831
+peſo peſo NCMS000 0.40787
+
+el el DA0MS0 0.880831
+pḣo pḣo NCMS000 0.40787
+
+el el DA0MS0 0.880831
+pꝛimero pꝛimero RG 1
+
+el el DA0MS0 0.880831
+pꝛinçipe pꝛinçipe NCMS000 0.666667
+
+el el DA0MS0 0.880831
+q̅ q̅ NCMS000 0.175279
+
+el el DA0MS0 0.880831
+rey rey NCMS000 1
+
+el el DA0MS0 0.880831
+rey rey NCMS000 1
+
+el el DA0MS0 0.880831
+tienpo tiempo NCMS000 1
+leᷤ leᷤ AQ0CS00 0.0305452
+
+el el DA0MS0 0.880831
+ꝺe ꝺe NCMS000 0.219365
+
+el el DA0MS0 0.880831
+ꝺemanꝺo. ꝺemanꝺo. NCMS000 0.175279
+
+el el DA0MS0 0.880831
+ꝺeſafiar ꝺeſafiar VMN0000 1
+
+el él PP3MS000 0.119169
+ꝺize ꝺize VMIP3S0 0.916694
+
+en en SPS00 1
+
+ſu ſu NCMS000 1
+
+en en SPS00 1
+acometer acometer VMN0000 1
+
+en en SPS00 1
+aguꝺa aguꝺa NCFS000 0.474205
+
+en en SPS00 1
+alexanꝺꝛia alexanꝺꝛia NCFS000 0.485606
+
+en en SPS00 1
+alguna alguno DI0FS0 0.992958
+
+en en SPS00 1
+alguna alguno DI0FS0 0.992958
+
+en en SPS00 1
+algunas alguno DI0FP0 0.990196
+
+en en SPS00 1
+algunas alguno DI0FP0 0.990196
+
+en en SPS00 1
+algunt alguno DI0MS0 1
+
+en en SPS00 1
+alto. alto. NCMS000 0.175279
+
+en en SPS00 1
+amoꝛ amoꝛ NCMS000 0.175279
+
+en en SPS00 1
+ancho ancho NCMS000 0.633609
+
+en en SPS00 1
+ancho ancho NCMS000 0.633609
+
+en en SPS00 1
+aquel aquel DD0MS0 0.849576
+
+en en SPS00 1
+aquel aquel DD0MS0 0.849576
+
+en en SPS00 1
+aquel aquel DD0MS0 0.849576
+
+en en SPS00 1
+aquella aquel DD0FS0 0.704678
+
+en en SPS00 1
+aquellas aquel PD0FP000 0.5
+
+en en SPS00 1
+aquellos aquel PD0MP000 0.65411
+
+en en SPS00 1
+aq̇llas aq̇llas NCFP000 1
+
+en en SPS00 1
+arabia arabia NP000G0 1
+
+en en SPS00 1
+cabo cabo NCMS000 1
+
+en en SPS00 1
+caminos camino NCMP000 1
+
+en en SPS00 1
+canpo campo NCMS000 1
+
+en en SPS00 1
+canpo campo NCMS000 1
+
+en en SPS00 1
+caualleria caballería NCFS000 1
+
+en en SPS00 1
+caꝺa caꝺa NCFS000 0.474205
+
+en en SPS00 1
+caꝺa caꝺa NCFS000 0.474205
+
+en en SPS00 1
+caꝺa caꝺa NCFS000 0.474205
+
+en en SPS00 1
+caꝺa caꝺa NCFS000 0.474205
+
+en en SPS00 1
+co 100 Z 1
+
+en en SPS00 1
+comienço comienzo NCMS000 1
+
+en en SPS00 1
+como como CS 0.953008
+
+en en SPS00 1
+como como CS 0.953008
+
+en en SPS00 1
+como como CS 0.953008
+
+en en SPS00 1
+como como CS 0.953008
+
+en en SPS00 1
+como como CS 0.953008
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+coṁo coṁo NCMS000 0.40787
+
+en en SPS00 1
+conpara comparar VMM02S0 1
+
+en en SPS00 1
+coſa coſa NCFS000 0.474205
+
+en en SPS00 1
+egipto. egipto. NCMS000 0.175279
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+ella él PP3FS000 1
+
+en en SPS00 1
+ella él PP3FS000 1
+
+en en SPS00 1
+ella él PP3FS000 1
+
+en en SPS00 1
+ella. ella. NCMS000 0.175279
+
+en en SPS00 1
+ella. ella. NCMS000 0.175279
+
+en en SPS00 1
+ellas ellos PP3FP000 1
+
+en en SPS00 1
+ellas ellos PP3FP000 1
+
+en en SPS00 1
+ellas ellos PP3FP000 1
+
+en en SPS00 1
+ellos ellos PP3MP000 1
+
+en en SPS00 1
+ellos ellos PP3MP000 1
+
+en en SPS00 1
+ellos ellos PP3MP000 1
+
+en en SPS00 1
+ellos ellos PP3MP000 1
+
+en en SPS00 1
+ellos. ellos. NCMS000 0.175279
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſta eſta NCFS000 0.424355
+
+en en SPS00 1
+eſtar eſtar VMN0000 0.944436
+
+en en SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+en en SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+en en SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+en en SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+en en SPS00 1
+eſtas eſtas NCFP000 0.50013
+
+en en SPS00 1
+eſtaᷤ eſtaᷤ NCMS000 0.175279
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſte eſte NCFS000 0.405354
+
+en en SPS00 1
+eſto eſto NCMS000 0.515761
+
+en en SPS00 1
+eſto eſto NCMS000 0.515761
+
+en en SPS00 1
+eſto eſto NCMS000 0.515761
+
+en en SPS00 1
+fablan hablar VMIP3P0 1
+
+en en SPS00 1
+fazer hacer VMN0000 1
+
+en en SPS00 1
+fermoſura. fermoſura. NCMS000 0.175279
+
+en en SPS00 1
+fonꝺo. fonꝺo. NCMS000 0.175279
+
+en en SPS00 1
+fonꝺon. fonꝺon. NCMS000 0.175279
+
+en en SPS00 1
+grant grande AQ0CS0 1
+
+en en SPS00 1
+grant grande AQ0CS0 1
+
+en en SPS00 1
+grant grande AQ0CS0 1
+
+en en SPS00 1
+granꝺes granꝺes NCMP000 0.305671
+
+en en SPS00 1
+greçia grecia NP000G0 1
+
+en en SPS00 1
+guiar guiar VMN0000 1
+
+en en SPS00 1
+guiſa guiſa NCFS000 0.474205
+
+en en SPS00 1
+guiſa guiſa NCFS000 0.474205
+
+en en SPS00 1
+guiſa guiſa NCFS000 0.474205
+
+en en SPS00 1
+iullio julio NCMS000 0.711823
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+las el DA0FP0 0.860393
+
+en en SPS00 1
+laᷤ laᷤ NCMS000 0.175279
+
+en en SPS00 1
+logar lugar NCMS000 1
+
+en en SPS00 1
+logares lugar NCMP000 1
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+los el DA0MP0 0.964169
+
+en en SPS00 1
+loᷤ loᷤ NCMS000 0.175279
+
+en en SPS00 1
+loᷤ loᷤ NCMS000 0.175279
+
+en en SPS00 1
+luengo luengo AQ0MS0 1
+
+en en SPS00 1
+lugar lugar NCMS000 1
+
+en en SPS00 1
+lugar lugar NCMS000 1
+
+en en SPS00 1
+lugares lugar NCMP000 1
+
+en en SPS00 1
+manera manera NCFS000 1
+
+en en SPS00 1
+manera manera NCFS000 1
+
+en en SPS00 1
+manera manera NCFS000 1
+
+en en SPS00 1
+manera manera NCFS000 1
+
+en en SPS00 1
+manera manera NCFS000 1
+
+en en SPS00 1
+metal metal NCMS000 1
+
+en en SPS00 1
+meꝺio meꝺio NCMS000 0.294217
+
+en en SPS00 1
+meꝺio meꝺio NCMS000 0.294217
+
+en en SPS00 1
+meꝺio meꝺio NCMS000 0.294217
+
+en en SPS00 1
+muge muge NCMS000 0.938744
+
+en en SPS00 1
+muy muy RG 1
+
+en en SPS00 1
+otra otro DI0FS0 0.675439
+
+en en SPS00 1
+otra otro DI0FS0 0.675439
+
+en en SPS00 1
+oꝛꝺen oꝛꝺen RG 0.315735
+
+en en SPS00 1
+parte parte NCFS000 0.467611
+
+en en SPS00 1
+paz paz NCFS000 1
+
+en en SPS00 1
+peligro. peligro. NCMS000 0.175279
+
+en en SPS00 1
+peligros peligro NCMP000 1
+
+en en SPS00 1
+penitençia penitencia NCFS000 1
+
+en en SPS00 1
+peṅas peṅas NCFP000 0.54149
+
+en en SPS00 1
+pieꝺꝛas pieꝺꝛas NCFP000 0.54149
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+
+en en SPS00 1
+pos pos SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+poꝺer poꝺer VMN0000 0.640606
+
+en en SPS00 1
+pꝛaꝺos pꝛaꝺos NCMP000 0.544159
+
+en en SPS00 1
+qn̈to qn̈to NCMS000 0.515761
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+
+en en SPS00 1
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+en en SPS00 1
+quales cuál PT0CP000 1
+
+en en SPS00 1
+quantas cuanto NCFP000 0.916667
+
+en en SPS00 1
+quantas cuanto NCFP000 0.916667
+
+en en SPS00 1
+quantas cuanto NCFP000 0.916667
+
+en en SPS00 1
+quantas cuanto NCFP000 0.916667
+
+en en SPS00 1
+quanto cuanto PR0MS000 0.996795
+
+en en SPS00 1
+quatro cuatro NCMS000 0.633609
+
+en en SPS00 1
+que que PR0CN000 0.648953
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+
+en en SPS00 1
+q̅ q̅ NCMS000 0.175279
+lo lo PP3CNa00 0.348232
+
+en en SPS00 1
+reꝺemir reꝺemir VMN0000 0.952719
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tal tal DD0CS0 0.776243
+
+en en SPS00 1
+tan tan RG 1
+
+en en SPS00 1
+tanta tanto DI0FS0 0.794118
+
+en en SPS00 1
+tanta tanto DI0FS0 0.794118
+
+en en SPS00 1
+ti ti PP2CSO00 1
+
+en en SPS00 1
+ti ti PP2CSO00 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tienpo tiempo NCMS000 1
+
+en en SPS00 1
+tierra tierra NCFS000 1
+
+en en SPS00 1
+tierra tierra NCFS000 1
+
+en en SPS00 1
+toꝺa toꝺa NCFS000 0.474205
+
+en en SPS00 1
+toꝺa toꝺa NCFS000 0.474205
+
+en en SPS00 1
+toꝺa toꝺa NCFS000 0.474205
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+en en SPS00 1
+toꝺo toꝺo NCMS000 0.40787
+
+en en SPS00 1
+toꝺo toꝺo NCMS000 0.40787
+
+en en SPS00 1
+toꝺo toꝺo NCMS000 0.40787
+
+en en SPS00 1
+toꝺos toꝺos NCMP000 0.544159
+
+en en SPS00 1
+toꝺos toꝺos NCMP000 0.544159
+
+en en SPS00 1
+tres 3 Z 0.280029
+
+en en SPS00 1
+tres 3 Z 0.280029
+
+en en SPS00 1
+tu tu DP2CSS 0.342896
+
+en en SPS00 1
+tus tu DP2CPS 1
+
+en en SPS00 1
+vna uno DI0FS0 0.862903
+
+en en SPS00 1
+ſabiꝺuria ſabiꝺuria NCFS000 0.799983
+
+en en SPS00 1
+ſemeiança ſemeiança NCFS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+
+en en SPS00 1
+ſu ſu NCMS000 1
+caſa caſa AQ0FS00 0.115457
+
+en en SPS00 1
+ſuma ſuma NCFS000 0.750053
+
+en en SPS00 1
+ſus ſus I 1
+
+en en SPS00 1
+ſus ſus I 1
+
+en en SPS00 1
+ſus ſus I 1
+
+en en SPS00 1
+ſus ſus I 1
+
+en en SPS00 1
+ꝑte ꝑte NCFS000 0.405354
+
+en en SPS00 1
+ꝺaṅos ꝺaṅos NCMP000 0.544159
+
+en en SPS00 1
+ꝺarloᷤ ꝺarloᷤ NCMS000 0.175279
+
+en en SPS00 1
+ꝺer ꝺer VMN0000 0.640606
+
+en en SPS00 1
+ꝺeramar ꝺeramar NCMS000 1
+
+en en SPS00 1
+ꝺere ꝺere VMIP3S0 0.713355
+
+en en SPS00 1
+ꝺerreꝺoꝛ ꝺerreꝺoꝛ NCMS000 0.175279
+
+en en SPS00 1
+ꝺerreꝺoꝛ ꝺerreꝺoꝛ NCMS000 0.175279
+
+en en SPS00 1
+ꝺios. ꝺios. NCMS000 0.175279
+
+en en SPS00 1
+ꝺos ꝺos NCMP000 0.544159
+
+en en SPS00 1
+ꝺos ꝺos NCMP000 0.544159
+
+en en SPS00 1
+ꝺos ꝺos NCMP000 0.544159
+
+en en SPS00 1
+ꝺos ꝺos NCMP000 0.544159
+
+en en SPS00 1
+ꝺoᷤ ꝺoᷤ NCMS000 0.175279
+
+en en SPS00 1
+ꝺoᷤ ꝺoᷤ NCMS000 0.175279
+
+en en SPS00 1
+ꝺureza ꝺureza NCFS000 1
+
+en en SPS00 1
+ꝺurezas ꝺurezas NCFP000 1
+
+en en SPS00 1
+ꝺuro ꝺuro NCMS000 0.200167
+
+entre entre SPS00 0.97037
+ſy ſy RG 0.62834
+
+entre entre SPS00 0.97037
+ſy. ſy. NCMS000 0.175279
+
+enxenplo ejemplo NCMS000 1
+ꝺe ꝺe AQ0CS00 0.118432
+
+enſeṅaꝺos enſeṅaꝺos NCMP000 0.544159
+⁊ ⁊ Fz 1
+
+es ser VSIP3S0 1
+bueno bueno AQ0MS0 0.980769
+
+es ser VSIP3S0 1
+el el DA0MS0 0.880831
+
+eſta eſta AQ0FS00 0.33829
+fincaꝺo fincaꝺo NCMS000 0.40787
+
+eſte eſte RG 0.19518
+nueſtro nueſtro VMIS3S0 0.535115
+
+eſto eſto RG 0.142356
+le le PP3CSD00 1
+
+faſta faſta VMIP3S0 0.156542
+el el DA0MS0 0.880831
+caſco. caſco. NCMS000 0.175279
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo. ꝺalgo. AQ0CS00 0.0305452
+
+firieron herir VMIS3P0 1
+lo lo PP3CNa00 0.348232
+
+guarꝺar guarꝺar VMN0000 0.911404
+ſe ſe NCMS000 0.219365
+mucho mucho RG 0.930013
+
+ha haber VAIP3S0 0.363363
+mas más RG 0.654277
+
+ha haber VAIP3S0 0.363363
+vençiꝺo vençiꝺo VMP00SM 0.10323
+
+han haber VAIP3P0 0.97619
+los el DA0MP0 0.964169
+
+han haber VAIP3P0 0.97619
+los el DA0MP0 0.964169
+oios ojo NCMP000 1
+
+han haber VAIP3P0 0.97619
+ꝺe ꝺe RG 0.121654
+
+he haber VAIP1S0 0.720779
+mengua mengua NCFS000 0.478261
+
+ioꝛ ioꝛ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+la el DA0FS0 0.897854
+calura. calura. NCMS000 0.175279
+
+la el DA0FS0 0.897854
+fanbꝛe fanbꝛe NCMS000 0.219365
+
+la el DA0FS0 0.897854
+fe fe NCFS000 1
+
+la el DA0FS0 0.897854
+liꝺ liꝺ NCMS000 0.175279
+
+la el DA0FS0 0.897854
+mar mar NCCS000 1
+
+la el DA0FS0 0.897854
+mar mar NCCS000 1
+
+la el DA0FS0 0.897854
+mas más RG 0.654277
+
+la el DA0FS0 0.897854
+meioꝛ meioꝛ NCMS000 0.175279
+
+la el DA0FS0 0.897854
+mey medio AQ0MS0 1
+
+la el DA0FS0 0.897854
+muger mujer NCFS000 1
+
+la el DA0FS0 0.897854
+pieꝺꝛa pieꝺꝛa NCFS000 0.474205
+
+la el DA0FS0 0.897854
+pieꝺꝛa. pieꝺꝛa. NCMS000 0.175279
+
+la el DA0FS0 0.897854
+razon razón NCFS000 1
+
+la el DA0FS0 0.897854
+tierra. tierra. NCMS000 0.175279
+
+lançar lanzar VMN0000 1
+o o CC 0.99692
+
+le le PP3CSD00 1
+muy muy RG 1
+
+le le PP3CSD00 1
+ꝺio ꝺio VMIS3S0 0.548913
+
+li 51 Z 0.493597
+muchos mucho DI0MP0 0.876506
+
+llegaron llegar VMIS3P0 1
+a a SPS00 0.956937
+el. el. NCMS000 0.175279
+
+lo el DA0NS0 0.30297
+quarto 4 AO0MS0 0.738095
+
+lo el DA0NS0 0.30297
+que que PR0CN000 0.648953
+
+lo el DA0NS0 0.30297
+vno uno PI0MS000 0.988439
+
+maguer maguer CS 1
+nȯ nȯ RG 0.10762
+
+mas mas CC 0.345275
+ꝺixo ꝺixo VMIS3S0 1
+
+meioꝛ meioꝛ RG 0.10762
+les le PP3CPD00 1
+
+meneſter meneſter VMN0000 0.434989
+les le PP3CPD00 1
+
+metio meter VMIS3S0 1
+ſe ſe RG 0.121654
+
+mi mi DP1CSS 0.879781
+paꝺꝛe paꝺꝛe NCMS000 0.219365
+
+mieꝺo mieꝺo VMIS3S0 0.23743
+⁊ ⁊ Fz 1
+
+muy muy RG 1
+alto alto AQ0MS0 0.992424
+
+muy muy RG 1
+bꝛauamente. bꝛauamente. VMIS3S0 0.0525441
+
+muy muy RG 1
+gran grande AQ0CS0 1
+
+muy muy RG 1
+grant grande AQ0CS0 1
+
+muy muy RG 1
+grant grande AQ0CS0 1
+reueren reueren VMIP3P0 1
+
+muy muy RG 1
+granꝺe granꝺe VMIP3S0 0.160865
+
+muy muy RG 1
+li le PP3CSD00 0.506403
+
+muy muy RG 1
+ꝺaꝺoꝛ ꝺaꝺoꝛ VMIS3S0 0.0525441
+
+ni ni CC 1
+nau̇ nau̇ VMIS3S0 0.0525441
+
+nin ni CC 1
+las el DA0FP0 0.860393
+
+nin ni CC 1
+le le PP3CSD00 1
+
+nin ni CC 1
+lo lo PP3CNa00 0.348232
+
+nin ni CC 1
+los el DA0MP0 0.964169
+
+nin ni CC 1
+los el DA0MP0 0.964169
+
+nin ni CC 1
+los el DA0MP0 0.964169
+
+nin ni CC 1
+ꝺe ꝺe VMIP3S0 0.160865
+
+non no RN 0.99968
+entienꝺan entienꝺan VMIP3P0 0.266452
+
+non no RN 0.99968
+es ser VSIP3S0 1
+
+non no RN 0.99968
+es ser VSIP3S0 1
+
+non no RN 0.99968
+ha haber VMIP3S0 0.633634
+
+non no RN 0.99968
+ha haber VMIP3S0 0.633634
+
+non no RN 0.99968
+la lo PP3FSA00 0.10199
+
+non no RN 0.99968
+la lo PP3FSA00 0.10199
+
+non no RN 0.99968
+la lo PP3FSA00 0.10199
+
+non no RN 0.99968
+la lo PP3FSA00 0.10199
+
+non no RN 0.99968
+la lo PP3FSA00 0.10199
+
+non no RN 0.99968
+las lo PP3FPA00 0.139221
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+le le PP3CSD00 1
+
+non no RN 0.99968
+les le PP3CPD00 1
+
+non no RN 0.99968
+les le PP3CPD00 1
+
+non no RN 0.99968
+les le PP3CPD00 1
+
+non no RN 0.99968
+les le PP3CPD00 1
+
+non no RN 0.99968
+les le PP3CPD00 1
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+lo lo PP3CNa00 0.348232
+
+non no RN 0.99968
+los el DA0MP0 0.964169
+
+non no RN 0.99968
+me me PP1CS000 1
+
+non no RN 0.99968
+para para SPS00 0.988789
+
+non no RN 0.99968
+pueꝺa pueꝺa VMII3S0 0.124879
+
+non no RN 0.99968
+te te PP2CS000 1
+
+non no RN 0.99968
+ſe ſe VMIP3S0 0.160865
+
+non no RN 0.99968
+ſe ſe VMIP3S0 0.160865
+
+non no RN 0.99968
+ſe ſe VMIP3S0 0.160865
+
+non no RN 0.99968
+ſe ſe VMIP3S0 0.160865
+
+non no RN 0.99968
+ſeria ſeria VMII3S0 0.399834
+
+non no RN 0.99968
+ſon ſon VMIS3P0 0.438617
+
+non no RN 0.99968
+ſon ſon VMIS3P0 0.438617
+
+non no RN 0.99968
+ſon ſon VMIS3P0 0.438617
+
+non no RN 0.99968
+ꝺe ꝺe VMIP3S0 0.160865
+
+non no RN 0.99968
+ꝺeuė ꝺeuė VMIS3S0 0.0525441
+
+nos me PP1CP000 0.5
+guarꝺa guarꝺa VMII3S0 0.124879
+
+nō nō RG 0.10762
+ha haber VMIP3S0 0.633634
+
+nȯ nȯ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+a a SPS00 0.956937
+
+o o CC 0.99692
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+agua agua NCFS000 1
+
+o o CC 0.99692
+coṁo coṁo VMIS3S0 0.23743
+
+o o CC 0.99692
+coṁo coṁo VMIS3S0 0.23743
+
+o o CC 0.99692
+el el DA0MS0 0.880831
+
+o o CC 0.99692
+en en SPS00 1
+
+
+o o CC 0.99692
+en en SPS00 1
+foꝛma foꝛma NCFS000 0.705863
+
+o o CC 0.99692
+fazer hacer VMN0000 1
+
+o o CC 0.99692
+grant grande AQ0CS0 1
+
+o o CC 0.99692
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+lanças lanzar VMIP2S0 0.250989
+
+o o CC 0.99692
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+los el DA0MP0 0.964169
+
+o o CC 0.99692
+loᷤ loᷤ VMIS3S0 0.0525441
+
+o o CC 0.99692
+mal mal NCMS000 0.597734
+
+o o CC 0.99692
+paꝺꝛe paꝺꝛe VMIP3S0 0.160865
+
+o o CC 0.99692
+pereſ pereſ VMIS3S0 0.0525441
+
+o o CC 0.99692
+ponerle poner+le VMN0000+PP3CSD00 1
+
+o o CC 0.99692
+poꝛ poꝛ VMIS3S0 0.0525441
+
+o o CC 0.99692
+poꝛ poꝛ VMIS3S0 0.0525441
+
+o o CC 0.99692
+quales cuál PT0CP000 1
+
+o o CC 0.99692
+quales cuál PT0CP000 1
+quier querer VMSP1S0 0.499006
+
+o o CC 0.99692
+quieren querer VMIP3P0 1
+
+o o CC 0.99692
+tener tener VMN0000 1
+lo lo PP3CNa00 0.348232
+han haber VAIP3P0 0.97619
+
+o o CC 0.99692
+ſe ſe VMIP3S0 0.160865
+
+o o CC 0.99692
+ſi ſi RG 0.913525
+
+o o CC 0.99692
+ſo ſo VMIS3S0 0.23743
+
+o o CC 0.99692
+ſus ſus I 1
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+rios río NCMP000 1
+
+o o CC 0.99692
+ꝺexanſe ꝺexanſe VMIP3S0 0.160865
+
+ofreçer ofrecer VMN0000 1
+le le PP3CSD00 1
+parias parir VMII2S0 0.148292
+
+onrraꝺa onrraꝺa VMII3S0 0.124879
+mēte mēte RG 0.19518
+
+ouo haber VAIS3S0 1
+gelo gelo_se+gelo_lo PP+PP 1
+
+ouo haber VAIS3S0 1
+ſe ſe RG 0.121654
+
+para para SPS00 0.988789
+eſto. eſto. NCMS000 0.175279
+
+para para SPS00 0.988789
+gelo gelo_se+gelo_lo PP+PP 1
+
+para para SPS00 0.988789
+la el DA0FS0 0.897854
+
+para para SPS00 0.988789
+la el DA0FS0 0.897854
+
+para para SPS00 0.988789
+la el DA0FS0 0.897854
+
+para para SPS00 0.988789
+la el DA0FS0 0.897854
+liꝺ. liꝺ. NCMS000 0.175279
+
+para para SPS00 0.988789
+le le PP3CSD00 1
+
+para para SPS00 0.988789
+le le PP3CSD00 1
+
+para para SPS00 0.988789
+liꝺiar liꝺiar VMN0000 1
+
+para para SPS00 0.988789
+lo el DA0NS0 0.30297
+
+para para SPS00 0.988789
+los el DA0MP0 0.964169
+
+para para SPS00 0.988789
+los el DA0MP0 0.964169
+
+para para SPS00 0.988789
+los el DA0MP0 0.964169
+
+para para SPS00 0.988789
+paſar paſar VMN0000 0.911404
+
+para para SPS00 0.988789
+vana vano AQ0FS0 1
+gloꝛia gloꝛia NCFS000 0.485606
+
+partar partar VMN0000 1
+los el DA0MP0 0.964169
+
+partio partir VMIS3S0 1
+los el DA0MP0 0.964169
+
+poꝛ poꝛ VMIS3S0 0.0525441
+alcançar alcanzar VMN0000 1
+
+poꝛ poꝛ RG 0.10762
+alli allí RG 1
+
+poꝛ poꝛ VMIS3S0 0.0525441
+auentura aventura NCFS000 0.916667
+
+poꝛ poꝛ VMIS3S0 0.0525441
+el el DA0MS0 0.880831
+
+poꝛ poꝛ VMIS3S0 0.0525441
+el el DA0MS0 0.880831
+ayꝛe ayꝛe NCMS000 0.219365
+⁊ ⁊ Fz 1
+matolo matar+lo VMIS3S0+PP3CNa00 0.295033 matar+lo VMIS3S0+PP3MSa00 0.295033
+
+poꝛ poꝛ VMIS3S0 0.0525441
+enxenplo ejemplo NCMS000 1
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ RG 0.10762
+enꝺe enꝺe VMIP3S0 0.160865
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛ poꝛ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+poꝛ poꝛ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+poꝛ poꝛ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+poꝛ poꝛ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+poꝛ poꝛ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+poꝛ poꝛ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+poꝛ poꝛ RG 0.10762
+merçeꝺ merçeꝺ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+palabꝛa palabꝛa VMII3S0 0.124879
+
+poꝛ poꝛ RG 0.10762
+palabꝛa. palabꝛa. VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+que que CS 0.351047
+lo lo PP3CNa00 0.348232
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ VMIS3S0 0.0525441
+ſer ſer VMN0000 0.640606
+
+poꝛ poꝛ VMIS3S0 0.0525441
+ꝺios ꝺios NCMS000 0.640555
+
+poꝛq̅ poꝛq̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+poꝛq̅ poꝛq̅ RG 0.10762
+mas más RG 0.654277
+
+poꝺer poꝺer VMN0000 0.640606
+lo lo PP3CNa00 0.348232
+
+poꝺer poꝺer VMN0000 0.640606
+lo lo PP3CNa00 0.348232
+han haber VAIP3P0 0.97619
+
+pueꝺe pueꝺe RG 0.121654
+ſe ſe VMIP3S0 0.160865
+
+pueꝺen pueꝺen RG 0.315735
+ſe ſe VMIP3S0 0.160865
+
+puꝺiera puꝺiera VMSI3S0 0.809518
+ſer ſer VMN0000 0.640606
+
+puꝺo puꝺo VMIS3S0 0.23743
+⁊ ⁊ Fz 1
+
+pꝛometio pꝛometio VMIS3S0 1
+gelo gelo_se+gelo_lo PP+PP 1
+
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+quanꝺo quanꝺo RG 0.0694316
+le le PP3CSD00 1
+
+quanꝺo quanꝺo RG 0.0694316
+lo lo PP3CNa00 0.348232
+
+quanꝺo quanꝺo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+a a SPS00 0.956937
+eſto eſto NCMS000 0.515761
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+la el DA0FS0 0.897854
+
+que que CS 0.351047
+las el DA0FP0 0.860393
+
+que que CS 0.351047
+las el DA0FP0 0.860393
+
+que que CS 0.351047
+las el DA0FP0 0.860393
+
+que que CS 0.351047
+las el DA0FP0 0.860393
+
+que que CS 0.351047
+le le PP3CSD00 1
+
+que que CS 0.351047
+le le PP3CSD00 1
+
+que que CS 0.351047
+le le PP3CSD00 1
+
+que que CS 0.351047
+les le PP3CPD00 1
+
+que que CS 0.351047
+les le PP3CPD00 1
+
+que que CS 0.351047
+les le PP3CPD00 1
+
+que que CS 0.351047
+les le PP3CPD00 1
+
+que que CS 0.351047
+lo lo PP3CNa00 0.348232
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+que que CS 0.351047
+non no RN 0.99968
+
+que que CS 0.351047
+non no RN 0.99968
+
+que que CS 0.351047
+non no RN 0.99968
+
+que que CS 0.351047
+nunca nunca RG 1
+
+que que PR0CN000 0.648953
+ſon ſon VMIS3P0 0.438617
+
+qui que PR0CN000 0.5
+ſole ſole VMIP3S0 0.0725452
+
+q̅ q̅ RG 0.10762
+ante antes RG 0.619303
+
+q̅ q̅ RG 0.10762
+es ser VSIP3S0 1
+meneſter meneſter NCMS000 0.565011
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+tenian tener VMII3P0 1
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+ꝺezian ꝺezian VMII3P0 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ RG 0.10762
+lo lo PP3CNa00 0.348232
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̅ q̅ RG 0.10762
+los lo PP3MPA00 0.0355791
+vençio vencer VMIS3S0 1
+
+q̅ q̅ RG 0.10762
+non no RN 0.99968
+
+q̅ q̅ RG 0.10762
+tengo tener VMIP1S0 1
+
+q̅ q̅ RG 0.10762
+ſe ſe VMIP3S0 0.160865
+
+q̅ q̅ RG 0.10762
+ſean ſean VMIP3P0 0.250335
+
+q̅ q̅ RG 0.10762
+ſon ſon VMIS3P0 0.438617
+
+q̅ q̅ RG 0.10762
+ſus ſus I 1
+
+q̅ q̅ RG 0.10762
+ꝺa ꝺa VMII3S0 0.124879
+
+q̅ q̅ RG 0.10762
+ꝺeuen ꝺeuen VMIP3P0 0.92856
+
+q̅ q̅ RG 0.10762
+ꝺeuen ꝺeuen VMIP3P0 0.92856
+
+q̅ q̅ RG 0.10762
+ꝺeſpues ꝺeſpues RG 1
+
+q̅ q̅ RG 0.10762
+ꝺize ꝺize VMIP3S0 0.916694
+
+q̅ q̅ RG 0.10762
+ꝺize ꝺize VMIP3S0 0.916694
+
+q̅ q̅ RG 0.10762
+ꝺize ꝺize VMIP3S0 0.916694
+
+q̅ q̅ RG 0.10762
+ꝺize ꝺize VMIP3S0 0.916694
+
+q̅ q̅ RG 0.10762
+ꝺize ꝺize VMIP3S0 0.916694
+
+q̇ q̇ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̇ q̇ RG 0.10762
+paſaſe paſaſe VMIP3S0 0.160865
+
+q̇manꝺo q̇manꝺo RG 0.0694316
+gelos gelos_se+gelos_lo PP+PP 1
+
+reuerençia. reuerençia. VMIS3S0 0.0525441
+E e CC 1
+
+rey rey NCMS000 1
+ſu ſu NCMS000 1
+
+rey rey NCMS000 1
+ꝺe ꝺe AQ0CS00 0.118432
+
+robanꝺo robanꝺo RG 0.0694316
+gelas gelas_se+gelas_lo PP+PP 1
+
+ron ron NCMS000 1
+a a SPS00 0.956937
+
+
+ron ron NCMS000 1
+los el DA0MP0 0.964169
+
+ta ta_te+ta_haber PP+VA 1
+ꝺe ꝺe VMIP3S0 0.160865
+
+tan tan RG 1
+bien bien RG 0.963887
+
+tan tan RG 1
+bien bien RG 0.963887
+
+tan tan RG 1
+granꝺe granꝺe VMIP3S0 0.160865
+
+tan tan RG 1
+pocos poco DI0MP0 0.65625
+
+tanto tanto RG 0.873267
+le le PP3CSD00 1
+
+te te PP2CS000 1
+los el DA0MP0 0.964169
+
+te te PP2CS000 1
+manꝺo manꝺo VMIS3S0 0.23743
+
+te te PP2CS000 1
+poner poner VMN0000 1
+
+techo techo NCMS000 1
+⁊ ⁊ Fz 1
+
+tomanꝺo tomanꝺo RG 0.0694316
+lo lo PP3CNa00 0.348232
+
+toꝛrnanꝺo toꝛrnanꝺo RG 0.0694316
+ſe ſe VMIP3S0 0.160865
+
+toꝺa toꝺa VMII3S0 0.124879
+via vía NCFS000 1
+
+tṗo tṗo VMIS3S0 0.23743
+a a SPS00 0.956937
+
+uen ir VMIP3P0 1
+ſer ſer VMN0000 0.640606
+
+vinieron venir VMIS3P0 1
+ſe ſe RG 0.121654
+
+virtuꝺ virtuꝺ RG 0.10762
+mas más RG 0.654277
+
+vn uno DI0MS0 0.965785
+buen bueno AQ0MS0 1
+
+vn uno DI0MS0 0.965785
+cauallero caballero NCMS000 0.87037
+
+vn uno DI0MS0 0.965785
+lecḣo lecḣo NCMS000 0.40787
+
+vn uno DI0MS0 0.965785
+rayo rayo NCMS000 0.733333
+
+vn uno DI0MS0 0.965785
+rio río NCMS000 0.502277
+
+vn uno DI0MS0 0.965785
+ſu ſu NCMS000 1
+
+vna uno DI0FS0 0.862903
+cib cib NCFS000 1
+
+xṗo xṗo VMIS3S0 0.23743
+baulo baulo NCMS000 0.909104
+
+y y CC 0.819361
+grant grande AQ0CS0 1
+
+ya ya RG 0.876984
+lo lo PP3CNa00 0.348232
+ꝺeximos ꝺeximos VMIP1P0 1
+
+ya ya RG 0.876984
+non no RN 0.99968
+
+yo yo PP1CSN00 1
+naſçi naſçi RG 0.913525
+
+çar çar VMN0000 1
+los el DA0MP0 0.964169
+
+çibꝺat çibꝺat VMM02P0 0.0632942
+muy muy RG 1
+
+ſa ſa VMII3S0 0.124879
+eta eta NCFS000 1
+
+ſal ſal AQ0CS00 0.44444
+ꝺe ꝺe NCMS000 0.219365
+
+ſe ſe RG 0.121654
+acoian acoger VMSP3P0 1
+
+ſe ſe RG 0.121654
+ha haber VMIP3S0 0.633634
+
+ſe ſe RG 0.121654
+han haber VAIP3P0 0.97619
+
+ſe ſe RG 0.121654
+le le PP3CSD00 1
+
+ſe ſe RG 0.121654
+le le PP3CSD00 1
+
+ſe ſe RG 0.121654
+mue mue VMIP3S0 0.574405
+
+ſe ſe RG 0.121654
+mueua mover VMSP3S0 0.557469
+
+ſe ſe RG 0.121654
+mueue mover VMIP3S0 0.930769
+
+ſe ſe RG 0.121654
+mueue mover VMIP3S0 0.930769
+
+ſe ſe RG 0.121654
+non no RN 0.99968
+
+ſe ſe RG 0.121654
+nos me PP1CP000 0.5
+
+ſe ſe RG 0.121654
+nȯ nȯ VMIS3S0 0.0525441
+
+ſe ſe RG 0.121654
+nȯ nȯ VMIS3S0 0.0525441
+
+ſe ſe RG 0.121654
+pueꝺa pueꝺa VMII3S0 0.124879
+
+ſe ſe RG 0.121654
+pueꝺen pueꝺen VMIP3P0 0.313079
+
+ſe ſe RG 0.121654
+traen traer VMIP3P0 1
+
+ſe ſe RG 0.121654
+ꝺefienꝺen ꝺefienꝺen VMIP3P0 0.313079
+
+ſegunt ſegunt AQ0CS00 0.74026
+q̅ q̅ NCMS000 0.175279
+
+ſegunꝺa ſegunꝺa RG 0.0451977
+es ser VSIP3S0 1
+
+ſemeiar ſemeiar VMN0000 1
+les le PP3CPD00 1
+
+ſer ſer NCMS000 0.156539
+aper aper NP000P0 1
+
+ſeꝺ ſeꝺ RG 0.10762
+⁊ ⁊ Fz 1
+
+ſi ſi RG 0.913525
+el el DA0MS0 0.880831
+
+ſi ſi RG 0.913525
+el el DA0MS0 0.880831
+
+ſi ſi RG 0.913525
+es ser VSIP3S0 1
+
+ſi ſi RG 0.913525
+es ser VSIP3S0 1
+
+ſi ſi RG 0.913525
+eſtan eſtan RG 0.906064
+
+ſi ſi RG 0.913525
+han haber VAIP3P0 0.97619
+
+ſi ſi RG 0.913525
+han haber VAIP3P0 0.97619
+
+ſi ſi RG 0.913525
+lancan lancan VMIP3P0 1
+
+ſi ſi RG 0.913525
+lança lanzar VMIP3S0 0.165586
+
+ſi ſi RG 0.913525
+lançan lanzar VMIP3P0 1
+
+ſi ſi RG 0.913525
+las el DA0FP0 0.860393
+
+ſi ſi RG 0.913525
+las el DA0FP0 0.860393
+
+ſi ſi RG 0.913525
+las el DA0FP0 0.860393
+
+ſi ſi RG 0.913525
+les le PP3CPD00 1
+
+ſi ſi RG 0.913525
+les le PP3CPD00 1
+
+ſi ſi RG 0.913525
+lo lo PP3CNa00 0.348232
+
+ſi ſi RG 0.913525
+lo lo PP3CNa00 0.348232
+
+ſi ſi RG 0.913525
+los el DA0MP0 0.964169
+
+ſi ſi RG 0.913525
+los el DA0MP0 0.964169
+
+ſi ſi RG 0.913525
+los el DA0MP0 0.964169
+
+ſi ſi RG 0.913525
+me me PP1CS000 1
+
+ſi ſi RG 0.913525
+me me PP1CS000 1
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+nō nō VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+nȯ nȯ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+poꝛ poꝛ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+poꝛ poꝛ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+poꝛ poꝛ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+poꝛ poꝛ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+puꝺier puꝺier VMSP3S0 0.46427
+ꝺes ꝺes NCMP000 0.305671
+
+ſi ſi RG 0.913525
+puꝺieren puꝺieren VMIP3P0 1
+
+ſi ſi RG 0.913525
+puꝺierꝺes puꝺierꝺes AQ0CP00 0.158688
+
+ſi ſi RG 0.913525
+tal tal PD0CS000 0.223757
+
+ſi ſi RG 0.913525
+temen temer VMIP3P0 1
+
+ſi ſi RG 0.913525
+ſe ſe VMIP3S0 0.160865
+
+ſin ſin NCMS000 1
+ellos ellos PP3MP000 1
+
+ſin ſin NCMS000 1
+eſto eſto AQ0MS00 0.180321
+
+ſin ſin NCMS000 1
+grant grande AQ0CS0 1
+
+ſin ſin NCMS000 1
+las el DA0FP0 0.860393
+
+ſin ſin NCMS000 1
+pꝛo pꝛo VMIS3S0 0.23743
+
+ſo ſo VMIS3S0 0.23743
+la el DA0FS0 0.897854
+
+ſo ſo VMIS3S0 0.23743
+la el DA0FS0 0.897854
+
+ſo ſo VMIS3S0 0.23743
+la el DA0FS0 0.897854
+
+ſo ſo VMIS3S0 0.23743
+las el DA0FP0 0.860393
+
+ſo ſo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+ſo ſo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+ſo ſo VMIS3S0 0.23743
+pena pena NCFS000 0.968254
+
+ſobꝛe ſobꝛe RG 0.121654
+ſeṅales ſeṅales AQ0CP00 0.515187
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicha ꝺicha VMP00SF 0.428578
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+ſofrir ſofrir VMN0000 1
+maᷤ maᷤ NCMS000 0.175279
+
+ſola ſola AQ0FS00 0.818137
+ſe ſe NCMS000 0.219365
+
+ſon ſon VMIS3P0 0.438617
+la el DA0FS0 0.897854
+
+ſon ſon VMIS3P0 0.438617
+las el DA0FP0 0.860393
+
+ſon ſon VMIS3P0 0.438617
+los el DA0MP0 0.964169
+
+ſon ſon VMIS3P0 0.438617
+los el DA0MP0 0.964169
+
+ſon ſon VMIS3P0 0.438617
+mas más RG 0.654277
+
+ſon ſon VMIS3P0 0.438617
+quatro cuatro NCMS000 0.633609
+
+ſon ſon VMIS3P0 0.438617
+tan tan RG 1
+
+ſu ſu NCMS000 1
+caualleria. caualleria. AQ0CS00 0.0305452
+
+ſu ſu NCMS000 1
+co 100 Z 1
+
+ſu ſu NCMS000 1
+fijo hijo NCMS000 1
+
+ſu ſu NCMS000 1
+grant grande AQ0CS0 1
+
+ſu ſu NCMS000 1
+muger mujer NCFS000 1
+
+ſu ſu NCMS000 1
+negligençia negligencia NCFS000 1
+
+ſu ſu NCMS000 1
+pa pa NCMS000 0.687348
+
+ſu ſu NCMS000 1
+pa pa NCMS000 0.687348
+
+ſu ſu NCMS000 1
+paꝺꝛe paꝺꝛe AQ0CS00 0.118432
+
+ſu ſu NCMS000 1
+paꝺꝛe paꝺꝛe AQ0CS00 0.118432
+
+ſu ſu NCMS000 1
+paꝺꝛe paꝺꝛe AQ0CS00 0.118432
+
+ſuelen ſuelen VMIP3P0 1
+les le PP3CPD00 1
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+la el DA0FS0 0.897854
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+⁊ ⁊ Fz 1
+a a SPS00 0.956937
+ſus ſus I 1
+
+⁊ ⁊ Fz 1
+afanes afán NCMP000 0.849998
+
+⁊ ⁊ Fz 1
+al al_a+al_el SP+DA 0.915677
+
+⁊ ⁊ Fz 1
+algunas alguno DI0FP0 0.990196
+
+⁊ ⁊ Fz 1
+anꝺar anꝺar VMN0000 0.911404
+
+⁊ ⁊ Fz 1
+apueſtos. apueſtos. NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+con con SPS00 1
+grant grande AQ0CS0 1
+
+⁊ ⁊ Fz 1
+con con SPS00 1
+mieꝺo mieꝺo NCMS000 0.40787
+
+⁊ ⁊ Fz 1
+en en SPS00 1
+cabo cabo NCMS000 1
+
+⁊ ⁊ Fz 1
+en en SPS00 1
+la el DA0FS0 0.897854
+
+⁊ ⁊ Fz 1
+es ser VSIP3S0 1
+
+⁊ ⁊ Fz 1
+fizo hacer VMIS3S0 1
+
+⁊ ⁊ Fz 1
+grant grande AQ0CS0 1
+
+⁊ ⁊ Fz 1
+hȧ hȧ NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+la el DA0FS0 0.897854
+
+⁊ ⁊ Fz 1
+lanceros lancero NCMP000 1
+
+⁊ ⁊ Fz 1
+les le PP3CPD00 1
+
+⁊ ⁊ Fz 1
+les le PP3CPD00 1
+
+⁊ ⁊ Fz 1
+los el DA0MP0 0.964169
+
+⁊ ⁊ Fz 1
+los el DA0MP0 0.964169
+
+⁊ ⁊ Fz 1
+los el DA0MP0 0.964169
+
+⁊ ⁊ Fz 1
+los el DA0MP0 0.964169
+
+⁊ ⁊ Fz 1
+luego luego CS 0.0945946
+
+⁊ ⁊ Fz 1
+muy muy RG 1
+
+⁊ ⁊ Fz 1
+muy muy RG 1
+
+⁊ ⁊ Fz 1
+muy muy RG 1
+
+⁊ ⁊ Fz 1
+muy muy RG 1
+
+⁊ ⁊ Fz 1
+no no RN 0.998783
+
+⁊ ⁊ Fz 1
+poꝛ poꝛ NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+pꝛeꝺicar pꝛeꝺicar VMN0000 1
+
+⁊ ⁊ Fz 1
+quanꝺo quanꝺo NCMS000 0.40787
+
+⁊ ⁊ Fz 1
+quanꝺo quanꝺo NCMS000 0.40787
+
+⁊ ⁊ Fz 1
+q̅ q̅ NCMS000 0.175279
+le le PP3CSD00 1
+
+⁊ ⁊ Fz 1
+q̍e q̍e NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+toꝺos toꝺos NCMP000 0.544159
+
+⁊ ⁊ Fz 1
+traer traer VMN0000 1
+
+⁊ ⁊ Fz 1
+vileᷤ vileᷤ NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+ſi ſi RG 0.913525
+
+⁊ ⁊ Fz 1
+ſin ſin NCMS000 1
+
+⁊ ⁊ Fz 1
+ſobꝛe ſobꝛe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝑa ꝑa NCFS000 0.474205
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe VMIP3S0 0.160865
+otras otro DI0FP0 0.698675
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe AQ0CS00 0.118432
+ſu ſu NCMS000 1
+
+⁊ ⁊ Fz 1
+ꝺe ꝺe AQ0CS00 0.118432
+ꝺelante. ꝺelante. NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+ꝺen ꝺen VMIP3P0 0.313079
+
+⁊ ⁊ Fz 1
+ꝺenꝺe ꝺenꝺe NCMS000 0.219365
+
+⁊ ⁊ Fz 1
+ꝺerecha ꝺerecha AQ0FS00 0.856987
+
+⁊ ⁊ Fz 1
+ꝺerecha. ꝺerecha. NCMS000 0.175279
+
+⁊ ⁊ Fz 1
+ꝺeſanpararon ꝺeſanpararon VMIS3P0 1
+
+⁊ ⁊ Fz 1
+ꝺeſpues ꝺeſpues RG 1
+
+ꝺe ꝺe RG 0.121654
+
+las el DA0FP0 0.860393
+
+ꝺe ꝺe RG 0.121654
+aquellas aquel PD0FP000 0.5
+
+ꝺe ꝺe RG 0.121654
+aqui aquí RG 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+batallas batalla NCFP000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+bna uno DI0FS0 0.726651
+
+ꝺe ꝺe RG 0.121654
+buena bueno AQ0FS0 1
+mente mente NCFS000 0.794118
+
+ꝺe ꝺe VMIP3S0 0.160865
+cauallo caballo NCMS000 1
+
+ꝺe ꝺe RG 0.121654
+coṁo coṁo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+conſe conſe VMIP3S0 0.160865
+
+ꝺe ꝺe RG 0.121654
+entrar. entrar. VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+ençer ençer VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+fazer hacer VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+fazer hacer VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+fazer hacer VMN0000 1
+
+ꝺe ꝺe RG 0.121654
+fecho. fecho. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+fue ser VSIS3S0 0.93672
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe VMIP3S0 0.160865
+iulio julio NCMS000 0.711823
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+liꝺ liꝺ NCMS000 0.175279
+
+ꝺe ꝺe VMIP3S0 0.160865
+lança lanza NCFS000 0.81526
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe RG 0.121654
+laᷤ laᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+laᷤ laᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+laᷤ laᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+laᷤ laᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+laᷤ laᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+le le PP3CSD00 1
+
+ꝺe ꝺe RG 0.121654
+le le PP3CSD00 1
+
+ꝺe ꝺe RG 0.121654
+les le PP3CPD00 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+leuar levar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+ligereza ligereza NCFS000 1
+
+ꝺe ꝺe RG 0.121654
+ligero ligero AQ0MS0 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+liꝺiar liꝺiar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+liꝺiar liꝺiar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+liꝺiar liꝺiar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+liꝺiar liꝺiar VMN0000 1
+
+ꝺe ꝺe RG 0.121654
+lo lo PP3CNa00 0.348232
+
+ꝺe ꝺe RG 0.121654
+lo lo PP3CNa00 0.348232
+
+ꝺe ꝺe RG 0.121654
+lo lo PP3CNa00 0.348232
+
+ꝺe ꝺe RG 0.121654
+lo lo PP3CNa00 0.348232
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe RG 0.121654
+loᷤ loᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+loᷤ loᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+loᷤ loᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+mar mar NCCS000 1
+
+ꝺe ꝺe RG 0.121654
+mayoꝛes mayoꝛes AQ0CP00 0.158688
+
+ꝺe ꝺe RG 0.121654
+maꝺe maꝺe VMIP3S0 0.160865
+
+ꝺe ꝺe VMIP3S0 0.160865
+moꝛar moꝛar VMN0000 0.911404
+
+ꝺe ꝺe RG 0.121654
+noche. noche. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+non no RN 0.99968
+
+ꝺe ꝺe RG 0.121654
+non no RN 0.99968
+
+ꝺe ꝺe VMIP3S0 0.160865
+notar notar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+notar notar VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+notar notar VMN0000 1
+
+ꝺe ꝺe RG 0.121654
+oloꝛ oloꝛ VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+otra otro DI0FS0 0.675439
+
+ꝺe ꝺe RG 0.121654
+oꝛo oꝛo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+oꝛo oꝛo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+oꝛꝺio oꝛꝺio VMIS3S0 0.548913
+
+ꝺe ꝺe RG 0.121654
+palabꝛa. palabꝛa. VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+paṅos paṅos NCMP000 0.544159
+
+ꝺe ꝺe VMIP3S0 0.160865
+partir partir VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+paz paz NCFS000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+paſar paſar VMN0000 0.911404
+
+ꝺe ꝺe VMIP3S0 0.160865
+peones peón NCMP000 1
+
+ꝺe ꝺe RG 0.121654
+pieꝺꝛa pieꝺꝛa VMII3S0 0.124879
+
+ꝺe ꝺe RG 0.121654
+pieꝺꝛas pieꝺꝛas RG 0.2061
+
+ꝺe ꝺe VMIP3S0 0.160865
+plata plata NCFS000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+poner poner VMN0000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+pꝛeçiar pꝛeçiar VMN0000 1
+
+ꝺe ꝺe VMM02S0 0.00968523
+qual cuál DT0CS0 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+quales cuál PT0CP000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+quales cuál PT0CP000 1
+quier querer VMSP1S0 0.499006
+
+ꝺe ꝺe NCMS000 0.219365
+quanto cuanto PR0MS000 0.996795
+
+ꝺe ꝺe VMIP3S0 0.160865
+quinze 15 Z 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+rey rey NCMS000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+rey rey NCMS000 1
+
+ꝺe ꝺe VMIP3S0 0.160865
+reyes rey NCMP000 1
+
+ꝺe ꝺe RG 0.121654
+reſina reſina AQ0FS00 0.40002
+
+ꝺe ꝺe RG 0.121654
+roma. roma. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+tales tal PD0CP000 0.723214
+
+ꝺe ꝺe RG 0.121654
+toꝺa toꝺa VMII3S0 0.124879
+
+ꝺe ꝺe RG 0.121654
+toꝺo toꝺo VMIS3S0 0.23743
+
+ꝺe ꝺe VMIP3S0 0.160865
+toꝺos toꝺos NCMP000 0.544159
+
+ꝺe ꝺe RG 0.121654
+toꝺos. toꝺos. VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+venir venir VMN0000 1
+
+ꝺe ꝺe RG 0.121654
+xabȯ xabȯ VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſer ſer VMN0000 0.640606
+
+ꝺe ꝺe RG 0.121654
+ſi ſi RG 0.913525
+
+ꝺe ꝺe RG 0.121654
+ſi. ſi. VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+ſu ſu NCMS000 1
+
+ꝺe ꝺe RG 0.121654
+ſus ſus I 1
+
+ꝺe ꝺe RG 0.121654
+ſus ſus I 1
+
+ꝺe ꝺe RG 0.121654
+ſus ſus I 1
+
+ꝺe ꝺe RG 0.121654
+ſus ſus I 1
+
+ꝺe ꝺe RG 0.121654
+ſus ſus I 1
+
+ꝺe ꝺe RG 0.121654
+ſuſo ſuſo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+ſuſo ſuſo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+ſuſo ſuſo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+ſuſo ſuſo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+ſuſo ſuſo VMIS3S0 0.23743
+
+ꝺe ꝺe RG 0.121654
+ſuſo. ſuſo. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+ſuſo. ſuſo. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+ſuſo. ſuſo. VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+ſy ſy RG 0.62834
+
+ꝺe ꝺe RG 0.121654
+ꝺentro ꝺentro VMIS3S0 0.529412
+
+ꝺe ꝺe RG 0.121654
+ꝺentro ꝺentro VMIS3S0 0.529412
+
+ꝺe ꝺe RG 0.121654
+ꝺia ꝺia VMII3S0 0.277104
+
+ꝺel ꝺel NCMS000 0.840776
+geneſi geneſi RG 0.913525
+
+ꝺel ꝺel NCMS000 0.840776
+los el DA0MP0 0.964169
+
+ꝺel ꝺel NCMS000 0.840776
+los el DA0MP0 0.964169
+
+ꝺel ꝺel AQ0CS00 0.159224
+munꝺo munꝺo NCMS000 0.40787
+
+ꝺel ꝺel NCMS000 0.840776
+vno uno PI0MS000 0.988439
+
+ꝺeue ꝺeue VMIP3S0 0.878785
+ſe ſe RG 0.121654
+
+ꝺeuen ꝺeuen VMIP3P0 0.92856
+te te PP2CS000 1
+
+ꝺeuen ꝺeuen VMIP3P0 0.92856
+ſer ſer VMN0000 0.640606
+
+ꝺeutero ꝺeutero NCMS000 0.500088
+nomio deuteromonio NP00000 1
+
+ꝺezian ꝺezian VMII3P0 1
+ante. ante. NCMS000 0.175279
+
+ꝺiole ꝺiole VMIP3S0 0.0725452
+vna uno DI0FS0 0.862903
+
+ꝺize ꝺize VMIP3S0 0.916694
+q̅ q̅ NCMS000 0.175279
+
+ꝺo ꝺo RG 0.0694316
+le le PP3CSD00 1
+
+ꝺo ꝺo RG 0.0694316
+les le PP3CPD00 1
+
+ꝺo ꝺo RG 0.0694316
+lo lo PP3CNa00 0.348232
+
+ꝺo ꝺo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+ꝺo ꝺo RG 0.0694316
+ꝺize ꝺize VMIP3S0 0.916694
+

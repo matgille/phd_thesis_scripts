@@ -1,0 +1,642 @@
+Conuiene convenir VMIP3S0 1
+nos me PP1CP000 0.5
+
+E e CC 1
+aun aun RG 1
+q̅ q̅ VMIS3S0 0.0525441
+
+E e CC 1
+l le PP3CSD00 0.0902443
+
+
+E e CC 1
+reſpȯ reſpȯ VMIS3S0 0.0525441
+
+a a SPS00 0.956937
+ellos ellos PP3MP000 1
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+las el DA0FP0 0.860393
+
+a a SPS00 0.956937
+los el DA0MP0 0.964169
+
+a a SPS00 0.956937
+mayoꝛ mayoꝛ NCMS000 0.175279
+
+a a SPS00 0.956937
+penas penar VMIP2S0 0.916667
+
+a a SPS00 0.956937
+q̅ q̅ NCMS000 0.175279
+
+a a SPS00 0.956937
+tomar tomar VMN0000 1
+le le PP3CSD00 1
+
+a a SPS00 0.956937
+vana vano AQ0FS0 1
+gloꝛia gloꝛia NCFS000 0.485606
+
+acometer acometer VMN0000 1
+los el DA0MP0 0.964169
+
+acometie acometie VMII3S0 0.755487
+ſen ſen RG 0.315735
+
+ale ale_a+ale_le SP+PP 0.704537
+xanꝺꝛe.E xanꝺꝛe.e NCMS000 0.219365
+començo comenzar VMIS3S0 0.181337
+
+amoneſtar amoneſtar VMN0000 0.944436
+los el DA0MP0 0.964169
+
+antigua antiguo AQ0FS0 1
+mente mente NCFS000 0.794118
+
+aron aarón NP000P0 1
+los el DA0MP0 0.964169
+
+aun aun RG 1
+q̅ q̅ VMIS3S0 0.0525441
+las el DA0FP0 0.860393
+
+aſerrar aſerrar VMN0000 1
+los el DA0MP0 0.964169
+
+bꝛe bꝛe RG 0.121654
+ꝺichas ꝺichas AQ0FP00 0.333258
+
+bꝛe bꝛe RG 0.121654
+ꝺichas ꝺichas AQ0FP00 0.333258
+
+bꝛe bꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+bꝛe bꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+bꝛe bꝛe RG 0.121654
+ꝺicho. ꝺicho. VMIS3S0 0.0525441
+
+can can NCMS000 1
+ſaꝺo ſaꝺo VMIS3S0 0.23743
+
+con con SPS00 1
+el el DA0MS0 0.880831
+
+conoſçen conoſçen VMIP3P0 1
+los el DA0MP0 0.964169
+
+conoſçer conoſçer VMN0000 1
+los el DA0MP0 0.964169
+
+conponen componer VMIP3P0 1
+ſe ſe RG 0.121654
+
+contra contra SPS00 0.982979
+peſo peſo NCMS000 0.40787
+
+cȯ cȯ RG 0.10762
+q̇ q̇ VMIS3S0 0.0525441
+
+coꝛtaꝺ coꝛtaꝺ RG 0.10762
+leꝫ leꝫ VMIS3S0 0.0525441
+
+echanꝺo echanꝺo RG 0.0694316
+les le PP3CPD00 1
+
+echanꝺo echanꝺo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+en en SPS00 1
+canpo campo NCMS000 1
+
+en en SPS00 1
+el el DA0MS0 0.880831
+
+en en SPS00 1
+ella él PP3FS000 1
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+la el DA0FS0 0.897854
+
+en en SPS00 1
+nobleſçiꝺo nobleſçiꝺo NCMS000 0.40787
+
+en en SPS00 1
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+en en SPS00 1
+toꝺas toꝺas NCFP000 0.54149
+
+enbiaron enviar VMIS3P0 1
+lo lo PP3CNa00 0.348232
+
+encerrar encerrar VMN0000 1
+los el DA0MP0 0.964169
+
+eſconꝺiꝺa eſconꝺiꝺa VMII3S0 0.124879
+mente mente NCFS000 0.794118
+
+eſfoꝛçar eſfoꝛçar VMN0000 1
+ſe ſe NCMS000 0.219365
+
+fallaron fallar VMIS3P0 0.5
+lo lo PP3CNa00 0.348232
+
+faz hacer VMM02S0 0.755319
+te te PP2CS000 1
+
+fazian hacer VMII3P0 1
+los el DA0MP0 0.964169
+
+fazienꝺo fazienꝺo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo ꝺalgo RG 0.499954
+
+fijos hijo NCMP000 1
+ꝺalgo. ꝺalgo. AQ0CS00 0.0305452
+
+guarꝺar guarꝺar VMN0000 0.911404
+ſe ſe NCMS000 0.219365
+mucho mucho RG 0.930013
+
+gue gue NP000G0 1
+rras ras NCMS000 1
+
+ha haber VAIP3S0 0.363363
+mas más RG 0.654277
+
+han haber VAIP3P0 0.97619
+los el DA0MP0 0.964169
+
+la el DA0FS0 0.897854
+calura. calura. NCMS000 0.175279
+
+ligera ligero AQ0FS0 1
+mė mė NCMS000 0.175279
+
+llaman llamar VMIP3P0 1
+los el DA0MP0 0.964169
+
+loca loco AQ0FS0 0.916667
+mente mente NCFS000 0.794118
+
+mal mal RG 0.0878187
+feriꝺo. feriꝺo. VMIS3S0 0.0525441
+
+matar matar VMN0000 1
+los el DA0MP0 0.964169
+
+matar matar VMN0000 1
+los. los. NCMS000 0.175279
+
+metio meter VMIS3S0 1
+ſe ſe RG 0.121654
+
+muſ muſ RG 0.10762
+los. los. VMIS3S0 0.0525441
+
+nin ni CC 1
+guno guno VMIS3S0 0.200573
+
+non no RN 0.99968
+ſeria ſeria VMII3S0 0.399834
+
+o o CC 0.99692
+agua agua NCFS000 1
+
+o o CC 0.99692
+quales cuál PT0CP000 1
+quier querer VMSP1S0 0.499006
+
+o o CC 0.99692
+tener tener VMN0000 1
+lo lo PP3CNa00 0.348232
+han haber VAIP3P0 0.97619
+
+o o CC 0.99692
+ꝺe ꝺe VMIP3S0 0.160865
+
+ofreçer ofrecer VMN0000 1
+le le PP3CSD00 1
+parias parir VMII2S0 0.148292
+
+onrraꝺa onrraꝺa VMII3S0 0.124879
+mēte mēte RG 0.19518
+
+otoꝛgar otoꝛgar VMN0000 0.64887
+les le PP3CPD00 1
+
+ouo haber VAIS3S0 1
+ſe ſe RG 0.121654
+
+para para SPS00 0.988789
+vana vano AQ0FS0 1
+gloꝛia gloꝛia NCFS000 0.485606
+
+poꝛ poꝛ RG 0.10762
+que que CS 0.351047
+
+poꝛ poꝛ RG 0.10762
+que que CS 0.351047
+
+poꝛ poꝛ RG 0.10762
+que que CS 0.351047
+
+poꝛ poꝛ RG 0.10762
+que que CS 0.351047
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̅ q̅ VMIS3S0 0.0525441
+
+poꝛ poꝛ RG 0.10762
+q̇ q̇ VMIS3S0 0.0525441
+
+poꝺer poꝺer VMN0000 0.640606
+los el DA0MP0 0.964169
+
+puſo puſo RG 0.0694316
+ſe ſe VMIP3S0 0.160865
+
+pꝛimera pꝛimera NCFS000 1
+mente mente NCFS000 0.794118
+
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+qual cuál DT0CS0 1
+quier querer VMSP1S0 0.499006
+
+quales cuál PT0CP000 1
+q̍er q̍er VMN0000 0.640606
+
+que que CS 0.351047
+los el DA0MP0 0.964169
+
+queria querer VMII3S0 0.65
+la el DA0FS0 0.897854
+
+queria querer VMII3S0 0.65
+los el DA0MP0 0.964169
+
+querienꝺo querienꝺo VMIS3S0 0.23743
+los el DA0MP0 0.964169
+
+qui que PR0CN000 0.5
+ſole ſole VMIP3S0 0.0725452
+
+quiſe quiſe RG 0.121654
+le le PP3CSD00 1
+
+q̅ q̅ VMIS3S0 0.0525441
+la el DA0FS0 0.897854
+
+q̅ q̅ RG 0.10762
+le le PP3CSD00 1
+
+q̅ q̅ RG 0.10762
+les le PP3CPD00 1
+
+q̅ q̅ VMIS3S0 0.0525441
+los el DA0MP0 0.964169
+
+q̇ q̇ RG 0.10762
+paſaſe paſaſe VMIP3S0 0.160865
+
+retauan retar VMII3P0 1
+los el DA0MP0 0.964169
+
+reſçebir reſçebir VMN0000 1
+la el DA0FS0 0.897854
+
+ron ron NCMS000 1
+los el DA0MP0 0.964169
+
+ruego rogar VMIP1S0 0.987805
+vos te PP2CP000 0.5
+
+tan tan RG 1
+bien bien RG 0.963887
+
+te te PP2CS000 1
+poner poner VMN0000 1
+
+toꝛrna toꝛrna VMIF3S0 0.624991
+te te PP2CS000 1
+
+toꝛrnanꝺo toꝛrnanꝺo RG 0.0694316
+ſe ſe VMIP3S0 0.160865
+
+toꝺa toꝺa VMII3S0 0.124879
+via vía NCFS000 1
+
+toꝺa toꝺa VMII3S0 0.124879
+via vía NCFS000 1
+
+toꝺa toꝺa VMII3S0 0.124879
+via vía NCFS000 1
+
+tra tra RG 0.124888
+peſo peſo VMIS3S0 0.23743
+
+vençer vencer VMN0000 1
+los. los. NCMS000 0.175279
+
+vos te PP2CP000 0.5
+otros otro DI0MP0 0.652439
+
+zer zer VMN0000 0.830174
+las el DA0FP0 0.860393
+
+zienꝺo zienꝺo RG 0.0694316
+les le PP3CPD00 1
+
+çar çar VMN0000 1
+los el DA0MP0 0.964169
+
+ſa ſa VMII3S0 0.124879
+eta eta NCFS000 1
+
+ſemeiar ſemeiar VMN0000 1
+les le PP3CPD00 1
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+non no RN 0.99968
+
+ſi ſi RG 0.913525
+nō nō VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+nō nō VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+nȯ nȯ VMIS3S0 0.0525441
+
+ſi ſi RG 0.913525
+puꝺier puꝺier VMSP3S0 0.46427
+ꝺes ꝺes NCMP000 0.305671
+
+ſobꝛe ſobꝛe VMIP3S0 0.160865
+poner poner VMN0000 1
+
+ſobꝛe ſobꝛe RG 0.121654
+ſeṅa ſeṅa VMII3S0 0.124879
+
+ſobꝛe ſobꝛe RG 0.121654
+ſeṅales ſeṅales AQ0CP00 0.515187
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺich ꝺich RG 0.25
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicha ꝺicha VMP00SF 0.428578
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺichas ꝺichas AQ0FP00 0.333258
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺichas. ꝺichas. VMIS3S0 0.0525441
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺicho ꝺicho VMP00SM 0.759986
+
+ſobꝛe ſobꝛe RG 0.121654
+ꝺichos. ꝺichos. VMIS3S0 0.0525441
+
+ſolepne ſolepne VMIP3S0 0.311469
+mė mė NCMS000 0.175279
+
+ſuelen ſuelen VMIP3P0 1
+les le PP3CPD00 1
+
+ſuelen ſuelen VMIP3P0 1
+ſe ſe RG 0.121654
+
+ꝺe ꝺe RG 0.121654
+Jarretarȯ jarretarȯ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+Jarretaꝺeras jarretaꝺeras AQ0FP00 0.225702
+
+ꝺe ꝺe RG 0.121654
+fuera fuera RG 0.630682
+
+ꝺe ꝺe VMIP3S0 0.160865
+la el DA0FS0 0.897854
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+las el DA0FP0 0.860393
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe VMIP3S0 0.160865
+los el DA0MP0 0.964169
+
+ꝺe ꝺe RG 0.121654
+loᷤ loᷤ VMIS3S0 0.0525441
+
+ꝺe ꝺe RG 0.121654
+noche. noche. VMIS3S0 0.0525441
+
+ꝺe ꝺe VMIP3S0 0.160865
+quales cuál PT0CP000 1
+quier querer VMSP1S0 0.499006
+
+ꝺe ꝺe RG 0.121654
+ꝺentro ꝺentro VMIS3S0 0.529412
+
+ꝺel ꝺel NCMS000 0.840776
+los el DA0MP0 0.964169
+
+ꝺen ꝺen VMIP3P0 0.313079
+los el DA0MP0 0.964169
+
+ꝺeſperto ꝺeſperto AQ0MS00 0.458266
+lo lo PP3CNa00 0.348232
+
+ꝺierȯ ꝺierȯ RG 0.10762
+les le PP3CPD00 1
+
+ꝺiz ꝺiz VMIS1S0 0.642648
+q̅ q̅ NCMS000 0.175279
+
+ꝺizienꝺo ꝺizienꝺo RG 0.0694316
+les le PP3CPD00 1
+
