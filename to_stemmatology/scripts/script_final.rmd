@@ -14,7 +14,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 # Construction du stemma du *Regimiento*
 
 ```{r}
@@ -37,55 +36,35 @@ print(RegimientoMatrix)
 
 ## Expérimentations sur le corpus total
 
-### Sans les omissions 
-```{r}
-PCC(RegimientoMatrix, ask=FALSE, threshold=0.06, omissionsAsReadings=FALSE)
-```
-
-
-### Avec les omissions 
 
 ```{r}
-PCC(RegimientoMatrix, ask=FALSE, threshold=0.040, omissionsAsReadings=TRUE)
+# On supprime les 3 lieux variants problématiques de AGZ
+cleaned = RegimientoMatrix[-285,]
+cleaned = cleaned[-107,]
+cleaned = cleaned[-57,]
+PCC(cleaned, ask=FALSE, threshold=0.040, omissionsAsReadings=TRUE)
 ```
 
-## Expérimentations sur des tranches
-
-### En dissociant 1-4 et 5-23
-#### 1-4
-```{r}
-Regimiento_avec_U = RegimientoMatrix[1:54,]
-print(Regimiento_avec_U[11,])
-# Le lieu variant 11 est: cibdadanos (BQR) / cibdades (AJUZ), la première étant une erreur même si elle semble plus logique: Sic quaelibet ciuitas et regnum indiget duplici virtute. Le problème est chez U mais on peut imaginer une correction pour BQR ? U ne se retrouve jamais dans le 2e groupe.
-Regimiento_avec_U = Regimiento_avec_U[-11,]
-print(Regimiento_avec_U[11,])
-PCC(Regimiento_avec_U, ask=FALSE, threshold=0.07, omissionsAsReadings=FALSE)
-```
-
-#### 5-23
-```{r}
-Regimiento_sans_U = RegimientoMatrix[55:317, -8]
-print(Regimiento_sans_U)
-PCC(Regimiento_sans_U, ask=FALSE, threshold=0.07, omissionsAsReadings=FALSE)
-
-```
-
-### Sans J
+## Expérimentations sans J
 J pose problème et est probablement contaminé. On l'enlève
 ```{r}
-Regimiento_sans_J = RegimientoMatrix[,-4]
+# On supprime les 3 lieux variants problématiques de AGZ + J
+Regimiento_sans_J = cleaned[,-4]
 print(Regimiento_sans_J)
+PCC(cleaned, ask=FALSE, threshold=0.04, omissionsAsReadings=FALSE)
 ```
+
+## En séparant les deux groupes, seul BQRU fonctionne et ne donne rien de probant que je comprenne.
 
 ### BQUR
 ```{r}
 # A B G J Q R Z U 
 # Il faut faire attention au changement d'ordre après la suppression de chaque colonne
-Regimiento_brancheA = RegimientoMatrix[,-1]
+Regimiento_brancheA = cleaned[,-1]
 Regimiento_brancheA = Regimiento_brancheA[, -2]
 Regimiento_brancheA = Regimiento_brancheA[, -2]
 Regimiento_brancheA = Regimiento_brancheA[, -4]
-print(Regimiento_brancheA)
+# print(Regimiento_brancheA)
 PCC(Regimiento_brancheA, ask=FALSE, threshold=0.04, omissionsAsReadings=FALSE)
 ```
 
@@ -93,67 +72,15 @@ PCC(Regimiento_brancheA, ask=FALSE, threshold=0.04, omissionsAsReadings=FALSE)
 ### AGJZ ne marche pas.
 ```{r}
 # A B G J Q R Z U 
-# Il faut faire attention au changement d'ordre après la suppression de chaque colonne
-Regimiento_brancheB = RegimientoMatrix[,-2]
+# Il faut faire attention au changement d'ordre après la suppression de chaque colonne (ou supprimer par la fin, mais j'ai eu cette brillante idée un peu tard)
+Regimiento_brancheB = cleaned[,-2]
 Regimiento_brancheB = Regimiento_brancheB[, -4]
 Regimiento_brancheB = Regimiento_brancheB[, -4]
 Regimiento_brancheB = Regimiento_brancheB[, -5]
 # On supprime J
 # Regimiento_brancheB = Regimiento_brancheB[, -3]
 # print(Regimiento_brancheB)
-# PCC(Regimiento_brancheB, ask=FALSE, threshold=0.1, omissionsAsReadings=FALSE)
-```
-
-
-
-
-#### Sans les omissions
-```{r}
-PCC(Regimiento_sans_J, ask=FALSE, threshold=0.07, omissionsAsReadings=FALSE)
-```
-
-#### Avec les omissions
-```{r}
-PCC(Regimiento_sans_J, ask=FALSE, threshold=0.07, omissionsAsReadings=TRUE)
-```
-
-
-### Sans R
-R pose problème et est probablement contaminé. On l'enlève
-```{r}
-Regimiento_sans_R = RegimientoMatrix[,-6]
-```
-
-
-#### Sans les omissions
-```{r}
-PCC(Regimiento_sans_R, ask=FALSE, threshold=0.07, omissionsAsReadings=FALSE)
-```
-
-#### Avec les omissions
-```{r}
-PCC(Regimiento_sans_R, ask=FALSE, threshold=0.07, omissionsAsReadings=TRUE)
-```
-
-
-
-### Première tranche: premier tiers
-```{r}
-premier_echantillon = RegimientoMatrix[0:100,]
-#PCC(premier_echantillon, ask=FALSE, threshold=0.07, omissionsAsReadings=FALSE)
-```
-
-### Deuxième tranche: deux premiers tiers
-```{r}
-deuxieme_echantillon = RegimientoMatrix[0:200,]
-#PCC(deuxieme_echantillon, ask=FALSE, threshold=0.05, omissionsAsReadings=FALSE)
-```
-
-### Troisième tranche: deux premiers tiers
-La troisième tranche ne fonctionne pas, les données ne sont pas correctes
-```{r}
-troisieme_echantillon = RegimientoMatrix[100:300,]
-# PCC(troisieme_echantillon, ask=FALSE, threshold=0.020, omissionsAsReadings=FALSE) # treshold 0.025
+PCC(Regimiento_brancheB, ask=FALSE, threshold=0.04, omissionsAsReadings=FALSE)
 ```
 
 

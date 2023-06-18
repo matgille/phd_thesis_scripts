@@ -1,0 +1,9 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "principal.xdv" "principal.pdf" "principal" 0
+  "principal.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "principal.pdf"
+["xelatex"] 1687017037 "principal.tex" "principal.xdv" "principal" 1687017037
+  (generated)
+  "principal.log"
+  "principal.xdv"
